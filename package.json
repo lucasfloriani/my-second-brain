@@ -8,6 +8,7 @@
   ],
   "scripts": {
     "build": "turbo run build",
+    "start:convert-markdown": "turbo run start --filter=convert-markdown",
     "dev": "turbo run dev --parallel",
     "dev:blog": "turbo run dev --filter=blog",
     "lint": "turbo run lint",
