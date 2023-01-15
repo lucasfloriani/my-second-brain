@@ -15,7 +15,7 @@ const siteMetadata = {
   github: 'https://github.com/lucasfloriani',
   twitter: 'https://twitter.com/lucasfloriani13',
   // facebook: 'https://facebook.com',
-  youtube: 'https://www.youtube.com/channel/UC7nZNOnYQJLr7gTTvaiIaeA',
+  youtube: 'https://www.youtube.com/@lucasfloriani',
   linkedin: 'https://www.linkedin.com/in/lucasfloriani13',
   locale: 'en-US',
   analytics: {
