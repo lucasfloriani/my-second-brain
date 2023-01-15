@@ -1,4 +1,5 @@
 const projectsData = [
+  // TODO: Add npm projects I developed
   {
     title: 'A Search Engine',
     description: `What if you could look up any information in the world? Webpages, images, videos
