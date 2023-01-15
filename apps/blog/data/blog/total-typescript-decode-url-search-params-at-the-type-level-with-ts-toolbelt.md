@@ -1,7 +1,7 @@
 ---
 title: TotalTypescript - Decode URL search params at the type level with ts-toolbelt
 date: '2016-03-08'
-tags: ['video', 'fullStack', 'typescript', 'mappedTypes', 'unionType', 'urlParams', 'tsToolbelt', 'read', '', 'withResume']
+tags: ['video', 'fullStack', 'typescript', 'mappedTypes', 'unionType', 'urlParams', 'tsToolbelt', 'read', 'withResume']
 draft: true
 summary: Implement it
 description: Implement it

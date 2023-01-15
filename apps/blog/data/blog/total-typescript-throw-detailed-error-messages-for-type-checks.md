@@ -1,7 +1,7 @@
 ---
 title: TotalTypescript - Throw detailed error messages for type checks
 date: '2016-03-08'
-tags: ['video', 'fullStack', 'typescript', 'error', 'typeLevelValidation', 'validation', 'read', '', 'withResume']
+tags: ['video', 'fullStack', 'typescript', 'error', 'typeLevelValidation', 'validation', 'read', 'withResume']
 draft: true
 summary: Implement it
 description: Implement it

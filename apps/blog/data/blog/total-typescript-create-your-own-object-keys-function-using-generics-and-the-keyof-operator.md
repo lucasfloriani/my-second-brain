@@ -1,7 +1,7 @@
 ---
 title: TotalTypescript - Create your own 'objectKeys' function using generics and the 'keyof' operator
 date: '2016-03-08'
-tags: ['video', 'fullStack', 'typescript', 'objectKeys', 'read', '', 'withResume']
+tags: ['video', 'fullStack', 'typescript', 'objectKeys', 'read', 'withResume']
 draft: true
 summary: Implement it
 description: Implement it

@@ -1,7 +1,7 @@
 ---
 title: Using infer - Marko Bilal
 date: '2016-03-08'
-tags: ['article', 'fullStack', 'typescript', 'infer', 'read', '', 'withResume']
+tags: ['article', 'fullStack', 'typescript', 'infer', 'read', 'withResume']
 draft: true
 summary: Implement it
 description: Implement it

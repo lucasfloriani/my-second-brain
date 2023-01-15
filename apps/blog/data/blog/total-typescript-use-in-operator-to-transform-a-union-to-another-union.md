@@ -1,7 +1,7 @@
 ---
 title: TotalTypescript - Use 'in' operator to transform a union to another union
 date: '2016-03-08'
-tags: ['video', 'fullStack', 'typescript', 'unionType', 'mappedTypes', 'read', '', 'withResume']
+tags: ['video', 'fullStack', 'typescript', 'unionType', 'mappedTypes', 'read', 'withResume']
 draft: true
 summary: Implement it
 description: Implement it

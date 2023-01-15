@@ -1,7 +1,7 @@
 ---
 title: Zod
 date: '2016-03-08'
-tags: ['article', 'fullStack', 'typescript', 'validation', 'read', '', 'withResume']
+tags: ['article', 'fullStack', 'typescript', 'validation', 'read', 'withResume']
 draft: true
 summary: Implement it
 description: Implement it

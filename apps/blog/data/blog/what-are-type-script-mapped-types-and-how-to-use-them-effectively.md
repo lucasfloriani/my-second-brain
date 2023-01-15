@@ -1,7 +1,7 @@
 ---
 title: What are TypeScript MAPPED Types and how to use them Effectively
 date: '2016-03-08'
-tags: ['article', 'fullStack', 'typescript', 'mappedTypes', 'read', '', 'withResume']
+tags: ['article', 'fullStack', 'typescript', 'mappedTypes', 'read', 'withResume']
 draft: true
 summary: Implement it
 description: Implement it

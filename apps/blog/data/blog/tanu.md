@@ -1,7 +1,7 @@
 ---
 title: Tanu
 date: '2016-03-08'
-tags: ['article', 'fullStack', 'typescript', 'abstraction', 'read', '', 'withResume']
+tags: ['article', 'fullStack', 'typescript', 'abstraction', 'read', 'withResume']
 draft: true
 summary: Implement it
 description: Implement it

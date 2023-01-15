@@ -1,7 +1,7 @@
 ---
 title: TotalTypescript - Use generics in React to make dynamic and flexible components
 date: '2016-03-08'
-tags: ['video', 'fullStack', 'typescript', 'genericComponents', 'objectKeys', 'read', '', 'withResume']
+tags: ['video', 'fullStack', 'typescript', 'genericComponents', 'objectKeys', 'read', 'withResume']
 draft: true
 summary: Implement it
 description: Implement it

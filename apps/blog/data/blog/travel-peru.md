@@ -1,7 +1,7 @@
 ---
 title: Travel - Peru
 date: '2016-03-08'
-tags: []
+tags: ['article']
 draft: false
 summary: Implement it
 description: Implement it

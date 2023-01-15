@@ -25,7 +25,8 @@ export const getFileContent = (filePath: string) => {
     ? tagsString
         .split(",")
         .map((tagString) => tagString.trim().replace("#", ""))
-    : [];
+        .filter((tag) => !!tag)
+    : ["article"];
 
   const draft =
     fileContent.includes("#read") && fileContent.includes("#withResume");

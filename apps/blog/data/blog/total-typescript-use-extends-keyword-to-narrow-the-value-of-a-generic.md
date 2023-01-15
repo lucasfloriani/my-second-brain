@@ -1,7 +1,7 @@
 ---
 title: TotalTypescript - Use 'extends' keyword to narrow the value of a generic
 date: '2016-03-08'
-tags: ['video', 'fullStack', 'typescript', 'extends', 'read', '', 'withResume']
+tags: ['video', 'fullStack', 'typescript', 'extends', 'read', 'withResume']
 draft: true
 summary: Implement it
 description: Implement it
