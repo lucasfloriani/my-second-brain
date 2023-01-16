@@ -1,10 +1,10 @@
 ---
 title: ReactJS useDeferredValue Hook - new React 18 concurrent feature
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'frontend', 'react', 'useDeferredValue', 'concurrentMode', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # ReactJS useDeferredValue Hook - new React 18 concurrent feature

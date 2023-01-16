@@ -1,10 +1,10 @@
 ---
 title: Amazon SQS temporary queues
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'backend', 'AWS', 'SQS', 'SQSVirtualQueue', 'TemporarySQS', 'websocket', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: Temporary queues help you save development time and deployment costs when using common message patterns such as request-response.. When a temporary queue is no longer in use, the client cleans up the ...
+description: Temporary queues help you save development time and deployment costs when using common message patterns such as request-response.. When a temporary queue is no longer in use, the client cleans up the ...
 ---
 
 # Amazon SQS temporary queues

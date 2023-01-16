@@ -1,10 +1,10 @@
 ---
 title: TotalTypescript - Create autocomplete helper which allows for arbitrary values
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'fullStack', 'typescript', 'autocomplete', 'unionTypes', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # TotalTypescript - Create autocomplete helper which allows for arbitrary values

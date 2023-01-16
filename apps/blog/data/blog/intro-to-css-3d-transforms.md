@@ -1,10 +1,10 @@
 ---
 title: Intro to CSS 3D transforms
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'course', 'frontend', 'animations', 'css', '3D']
-draft: false
-summary: Implement it
-description: Implement it
+draft: true
+summary: Keeping the 3D space element and the object separate element establishes a paradigm that is simple to understand and easier to style.. In order for subsequent children to inherit a parent’s perspectiv...
+description: Keeping the 3D space element and the object separate element establishes a paradigm that is simple to understand and easier to style.. In order for subsequent children to inherit a parent’s perspectiv...
 ---
 
 # Intro to CSS 3D transforms

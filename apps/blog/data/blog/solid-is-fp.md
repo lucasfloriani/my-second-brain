@@ -1,10 +1,10 @@
 ---
 title: SOLID is FP!
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'architecture', 'fullStack', 'solid', 'functionalProgramming', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: What could be simpler. What are better client interfaces than a single function?. They're so pervasive in FP that you use without noticing all the boiler-plate code you didn't needed to write....
+description: What could be simpler. What are better client interfaces than a single function?. They're so pervasive in FP that you use without noticing all the boiler-plate code you didn't needed to write....
 ---
 
 # SOLID is FP!

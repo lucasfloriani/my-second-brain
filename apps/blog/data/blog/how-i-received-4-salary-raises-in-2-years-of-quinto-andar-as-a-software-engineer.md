@@ -1,10 +1,10 @@
 ---
 title: How I received 4 salary raises in 2 years of QuintoAndar as a software engineer
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'carrer', 'salary', 'salaryRaise']
-draft: false
-summary: Implement it
-description: Implement it
+draft: true
+summary: ...
+description: ...
 ---
 
 # How I received 4 salary raises in 2 years of QuintoAndar as a software engineer

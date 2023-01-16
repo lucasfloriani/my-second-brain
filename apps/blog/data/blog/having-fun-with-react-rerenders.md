@@ -1,10 +1,10 @@
 ---
 title: Having fun with React Rerenders
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'frontend', 'react', 'rerender']
-draft: false
-summary: Implement it
-description: Implement it
+draft: true
+summary: ...
+description: ...
 ---
 
 # Having fun with React Rerenders

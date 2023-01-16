@@ -1,10 +1,10 @@
 ---
 title: Stronger JavaScript with Opaque Types
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'fullStack', 'typescript', 'opaqueTypes', 'architecture', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # Stronger JavaScript with Opaque Types

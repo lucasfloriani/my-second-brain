@@ -1,10 +1,10 @@
 ---
 title: Subscriptions and live queries in GraphQL
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'architecture', 'subscriptions', 'graphQL', 'frontend', 'backend']
-draft: false
-summary: Implement it
-description: Implement it
+draft: true
+summary: ...
+description: ...
 ---
 
 # Subscriptions and live queries in GraphQL

@@ -1,10 +1,10 @@
 ---
 title: What are Enums in TypeScript, and When Should you use Them
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'fullStack', 'typescript', 'enum', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # What are Enums in TypeScript, and When Should you use Them

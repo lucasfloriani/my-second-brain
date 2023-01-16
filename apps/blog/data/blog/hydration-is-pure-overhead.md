@@ -1,10 +1,10 @@
 ---
 title: Hydration is Pure Overhead
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'architecture', 'frontend', 'hydration', 'SPA', 'performance', 'virtualDom', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: WHAT The event handler is a closure that contains the behavior of the event handler.. APP_STATE the state of the application.. By downloading and executing the components currently in the HTML....
+description: WHAT The event handler is a closure that contains the behavior of the event handler.. APP_STATE the state of the application.. By downloading and executing the components currently in the HTML....
 ---
 
 # Hydration is Pure Overhead

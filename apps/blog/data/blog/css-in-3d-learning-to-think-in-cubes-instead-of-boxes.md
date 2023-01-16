@@ -1,10 +1,10 @@
 ---
 title: CSS in 3D - Learning to Think in Cubes Instead of Boxes
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'course', 'frontend', 'animations', 'css', '3D']
-draft: false
-summary: Implement it
-description: Implement it
+draft: true
+summary: GUI. It’s a lightweight controller library for JavaScript that super useful for debugging 3D CSS....
+description: GUI. It’s a lightweight controller library for JavaScript that super useful for debugging 3D CSS....
 ---
 
 # CSS in 3D - Learning to Think in Cubes Instead of Boxes

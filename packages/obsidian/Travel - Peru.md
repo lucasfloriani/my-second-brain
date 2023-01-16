@@ -614,3 +614,4 @@ TODO: Centralize thing by city
 [viajei aqui.](https://www.youtube.com/@viajeiaqui)
 
 ##### Tags
+#read, #withResume

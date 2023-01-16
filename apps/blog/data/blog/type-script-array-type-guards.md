@@ -1,10 +1,10 @@
 ---
 title: TypeScript Array Type Guards
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'fullStack', 'typescript', 'filter', 'typeGuard', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # TypeScript Array Type Guards

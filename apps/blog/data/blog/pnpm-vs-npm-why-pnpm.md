@@ -1,10 +1,10 @@
 ---
 title: pnpm vs npm - Why pnpm
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'fullStack', 'pnpm', 'npm', 'build', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # pnpm vs npm - Why pnpm

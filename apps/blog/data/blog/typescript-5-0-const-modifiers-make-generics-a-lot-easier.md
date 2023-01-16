@@ -1,10 +1,10 @@
 ---
 title: Typescript 5.0 - Const modifiers make generics a LOT easier
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'fullStack', 'typescript', 'unionType', 'const', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # Typescript 5.0 - Const modifiers make generics a LOT easier

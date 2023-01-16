@@ -1,10 +1,10 @@
 ---
 title: TotalTypescript - Assign local variables to default generic slots to dry up your code and improve performance
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'fullStack', 'typescript', 'performance', 'DRY', 'generics', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # TotalTypescript - Assign local variables to default generic slots to dry up your code and improve performance

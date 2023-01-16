@@ -1,10 +1,10 @@
 ---
 title: Travel - Peru
-date: '2016-03-08'
-tags: []
+date: '2023-01-15'
+tags: ['read', 'withResume']
 draft: false
-summary: Implement it
-description: Implement it
+summary: Second day is 22km to walk. Lima has 2 restaurants in the global top 10 (Central is the best restaurant in Latin America).. Chá de munia é bom pra altitude. Hiking the Salkantay Trek to Machu Picchu �...
+description: Second day is 22km to walk. Lima has 2 restaurants in the global top 10 (Central is the best restaurant in Latin America).. Chá de munia é bom pra altitude. Hiking the Salkantay Trek to Machu Picchu �...
 ---
 
 # Travel - Peru

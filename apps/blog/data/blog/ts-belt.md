@@ -1,10 +1,10 @@
 ---
 title: TS Belt
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['backend', 'frontend', 'ts-belt', 'functionalProgramming', 'utilityFirst', 'typescript']
-draft: false
-summary: Implement it
-description: Implement it
+draft: true
+summary: ...
+description: ...
 ---
 
 # TS Belt

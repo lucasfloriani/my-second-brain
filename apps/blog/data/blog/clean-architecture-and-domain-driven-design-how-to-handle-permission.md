@@ -1,10 +1,10 @@
 ---
 title: Clean architecture and Domain Driven Design - How to handle Permission
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'backend', 'architecture', 'cleanArchitecture', 'DDD', 'domainDrivenDesign', 'authentication', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: The controllers would access the current user's credentials and pass that information to the interactors.. Normal web channel will probably have the session cookie with user_id in it....
+description: The controllers would access the current user's credentials and pass that information to the interactors.. Normal web channel will probably have the session cookie with user_id in it....
 ---
 
 # Clean architecture and Domain Driven Design - How to handle Permission

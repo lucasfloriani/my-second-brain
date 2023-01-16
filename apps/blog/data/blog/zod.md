@@ -1,10 +1,10 @@
 ---
 title: Zod
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'fullStack', 'typescript', 'validation', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: Supervillain Generate Zod schemas from your Go structs....
+description: Supervillain Generate Zod schemas from your Go structs....
 ---
 
 # Zod

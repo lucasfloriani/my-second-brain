@@ -1,10 +1,10 @@
 ---
 title: Clean architecture and Domain Driven Design - Input Validation
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'backend', 'architecture', 'cleanArchitecture', 'DDD', 'domainDrivenDesign', 'validation', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: This is validation. In this layer, validation means protecting the system at low level.. The responsibility of this layer is converting data from one’s format to another one’s.. In this layer, validat...
+description: This is validation. In this layer, validation means protecting the system at low level.. The responsibility of this layer is converting data from one’s format to another one’s.. In this layer, validat...
 ---
 
 # Clean architecture and Domain Driven Design - Input Validation

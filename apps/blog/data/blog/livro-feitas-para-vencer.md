@@ -1,10 +1,10 @@
 ---
 title: Livro - Feitas para Vencer
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['book']
-draft: false
-summary: Implement it
-description: Implement it
+draft: true
+summary: ...
+description: ...
 ---
 
 # Livro - Feitas para Vencer

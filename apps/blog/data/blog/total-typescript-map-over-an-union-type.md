@@ -1,10 +1,10 @@
 ---
 title: TotalTypescript - Map over an union type
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'fullStack', 'typescript', 'unionTypes', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # TotalTypescript - Map over an union type

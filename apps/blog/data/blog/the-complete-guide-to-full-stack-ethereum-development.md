@@ -1,10 +1,10 @@
 ---
 title: The complete guide to FullStack Ethereum Development
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'web3', 'fullStack', 'ethereum']
-draft: false
-summary: Implement it
-description: Implement it
+draft: true
+summary: ...
+description: ...
 ---
 
 # The complete guide to FullStack Ethereum Development

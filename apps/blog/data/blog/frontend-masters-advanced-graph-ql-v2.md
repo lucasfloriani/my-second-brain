@@ -1,10 +1,10 @@
 ---
 title: FrontendMasters - Advanced GraphQL v2
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'course', 'fullStack', 'architecture', 'graphQL', 'subscriptions', 'liveQueries', 'authentication', 'cache', 'directives', 'customDirectives']
-draft: false
-summary: Implement it
-description: Implement it
+draft: true
+summary: You can create helper functions that use currying to check the context if the user is logged in or have the correct role.. Allows you to add logic and metadata to your Schemas, Queries, or Mutations....
+description: You can create helper functions that use currying to check the context if the user is logged in or have the correct role.. Allows you to add logic and metadata to your Schemas, Queries, or Mutations....
 ---
 
 # FrontendMasters - Advanced GraphQL v2

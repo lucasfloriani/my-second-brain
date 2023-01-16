@@ -1,10 +1,10 @@
 ---
 title: TS Pattern - Prevent new types not being check by pattern matching without throwing an error
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'fullStack', 'typescript', 'ts-pattern', 'safeExhaustive', 'patternMatching', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # TS Pattern - Prevent new types not being check by pattern matching without throwing an error

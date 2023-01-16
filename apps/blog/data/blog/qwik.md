@@ -1,10 +1,10 @@
 ---
 title: Qwik
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'architecture', 'frontend', 'SPA', 'resumable', 'hydration', 'performance', 'virtualDom', 'serverSideRendering', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: Listeners - locate event listeners and install them on the DOM nodes to make the application interactive.. The frameworks have to download all of the component code associated with the current page.. ...
+description: Listeners - locate event listeners and install them on the DOM nodes to make the application interactive.. The frameworks have to download all of the component code associated with the current page.. ...
 ---
 
 # Qwik

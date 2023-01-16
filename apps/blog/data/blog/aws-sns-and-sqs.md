@@ -1,10 +1,10 @@
 ---
 title: AWS SNS and SQS
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'backend', 'AWS', 'SNS', 'SQS', 'websocket', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: It consists of two important parts, one is Topics and the other is Subscriptions.. Is a fully managed message queuing service....
+description: It consists of two important parts, one is Topics and the other is Subscriptions.. Is a fully managed message queuing service....
 ---
 
 # AWS SNS and SQS

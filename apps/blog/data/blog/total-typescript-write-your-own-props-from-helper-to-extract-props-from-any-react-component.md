@@ -1,10 +1,10 @@
 ---
 title: TotalTypescript - Write your own 'PropsFrom' helper to extract props from any React component
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'frontend', 'typescript', 'react', 'functionalComponent', 'classComponent', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # TotalTypescript - Write your own 'PropsFrom' helper to extract props from any React component

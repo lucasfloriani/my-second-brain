@@ -1,10 +1,10 @@
 ---
 title: What do you mean by Event-Driven
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'architecture', 'lambda', 'eventDriven', 'martinFowler', 'eventArchitectures', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: What do you mean by Event-Driven. Um bom exemplo seria um sistema de cadastro de clientes onde um cliente edita sua informação e notifica outros sistemas que precisam atualizar esse dados tbm, porem a...
+description: What do you mean by Event-Driven. Um bom exemplo seria um sistema de cadastro de clientes onde um cliente edita sua informação e notifica outros sistemas que precisam atualizar esse dados tbm, porem a...
 ---
 
 # What do you mean by Event-Driven

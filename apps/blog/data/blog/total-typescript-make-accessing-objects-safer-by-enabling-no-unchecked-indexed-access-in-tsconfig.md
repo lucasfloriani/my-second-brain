@@ -1,10 +1,10 @@
 ---
 title: TotalTypescript - Make accessing objects safer by enabling 'noUncheckedIndexedAccess' in tsconfig
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'fullStack', 'typescript', 'noUncheckedIndexedAccess', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # TotalTypescript - Make accessing objects safer by enabling 'noUncheckedIndexedAccess' in tsconfig

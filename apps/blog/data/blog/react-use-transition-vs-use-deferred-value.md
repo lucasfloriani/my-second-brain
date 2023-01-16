@@ -1,10 +1,10 @@
 ---
 title: React - useTransition() vs useDeferredValue()
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'frontend', 'react', 'concurrentMode', 'useDeferredValue', 'useTransition', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: The difference is that useTransition() wraps the state updating code, whilst useDeferredValue() wraps a value that's affected by the state update.. Instead, it makes sense to prefer useTransition(), i...
+description: The difference is that useTransition() wraps the state updating code, whilst useDeferredValue() wraps a value that's affected by the state update.. Instead, it makes sense to prefer useTransition(), i...
 ---
 
 # React - useTransition() vs useDeferredValue()

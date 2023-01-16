@@ -1,10 +1,10 @@
 ---
 title: TotalTypescript - Use 'declare global' to allow types to cross module boundaries
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'fullStack', 'typescript', 'globalTypes', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # TotalTypescript - Use 'declare global' to allow types to cross module boundaries

@@ -1,10 +1,10 @@
 ---
 title: SOLID - The First 5 Principles of Object Oriented Design
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'architecture', 'fullStack', 'solid #read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: The AreaCalculator class should only be concerned with the sum of the areas of provided shapes.. It states that the high-level module must not depend on the low-level module, but they should depend on...
+description: The AreaCalculator class should only be concerned with the sum of the areas of provided shapes.. It states that the high-level module must not depend on the low-level module, but they should depend on...
 ---
 
 # SOLID - The First 5 Principles of Object Oriented Design

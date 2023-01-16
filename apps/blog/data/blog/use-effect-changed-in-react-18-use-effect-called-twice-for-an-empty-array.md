@@ -1,10 +1,10 @@
 ---
 title: useEffect changed in React 18 - useEffect called twice for an empty array
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'frontend', 'react', 'useEffect', 'concurrentMode', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # useEffect changed in React 18 - useEffect called twice for an empty array

@@ -1,10 +1,10 @@
 ---
 title: Data Fetching on the Web Still Sucks
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'frontend', 'architecture']
-draft: false
-summary: Implement it
-description: Implement it
+draft: true
+summary: ...
+description: ...
 ---
 
 # Data Fetching on the Web Still Sucks

@@ -1,10 +1,10 @@
 ---
 title: ADT, Ad Hoc Polymorphism e TypeClass
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['adt', 'adHocPolymorphism']
-draft: false
-summary: Implement it
-description: Implement it
+draft: true
+summary: ...
+description: ...
 ---
 
 # ADT, Ad Hoc Polymorphism e TypeClass

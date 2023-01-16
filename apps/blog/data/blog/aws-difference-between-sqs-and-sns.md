@@ -1,10 +1,10 @@
 ---
 title: AWS - Difference between SQS and SNS
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'backend', 'AWS', 'SNS', 'SQS', 'websocket', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: SNS is a distributed publish-subscribe service.. Amazon SNS is a fast, flexible, fully managed push notification service that lets you send individual messages or to bulk messages to large numbers of ...
+description: SNS is a distributed publish-subscribe service.. Amazon SNS is a fast, flexible, fully managed push notification service that lets you send individual messages or to bulk messages to large numbers of ...
 ---
 
 # AWS - Difference between SQS and SNS

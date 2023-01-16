@@ -1,10 +1,10 @@
 ---
 title: PropertyKey - TypeScript Secrets
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'fullStack', 'typescript', 'propertyKey', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # PropertyKey - TypeScript Secrets

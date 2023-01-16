@@ -1,10 +1,10 @@
 ---
 title: TotalTypescript - Use generics to dynamically specify the number, and type, of arguments to functions
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'fullStack', 'typescript', 'generics', 'utilityTypes', 'extractUtilityType #read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # TotalTypescript - Use generics to dynamically specify the number, and type, of arguments to functions

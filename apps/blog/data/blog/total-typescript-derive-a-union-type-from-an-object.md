@@ -1,10 +1,10 @@
 ---
 title: TotalTypescript - Derive a union type from an object
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'fullStack', 'typescript', 'unionType', 'typeof', 'mappedTypes', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # TotalTypescript - Derive a union type from an object

@@ -1,10 +1,10 @@
 ---
 title: Enablement vs Ownership
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'carrer']
-draft: false
-summary: Implement it
-description: Implement it
+draft: true
+summary: ...
+description: ...
 ---
 
 # Enablement vs Ownership

@@ -1,10 +1,10 @@
 ---
 title: Operating Lambda Design principles in event-driven architectures – Part 2
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'architecture', 'lambda', 'eventDriven', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: For example, when API Gateway and Lambda interact, there is no concept of load balancing available since it is entirely managed by the services.. Lambda provides an initializer before the handler wher...
+description: For example, when API Gateway and Lambda interact, there is no concept of load balancing available since it is entirely managed by the services.. Lambda provides an initializer before the handler wher...
 ---
 
 # Operating Lambda Design principles in event-driven architectures – Part 2

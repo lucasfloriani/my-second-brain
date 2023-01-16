@@ -1,10 +1,10 @@
 ---
 title: ReactJS startTransition and useTransition (React concurrent features) - in 4 minutes
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'frontend', 'react', 'concurrentMode', 'useTransition', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # ReactJS startTransition and useTransition (React concurrent features) - in 4 minutes

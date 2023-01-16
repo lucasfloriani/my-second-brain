@@ -1,10 +1,10 @@
 ---
 title: Managing backend requests and frontend notifications in serverless web apps
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'architecture', 'lambda', 'eventDriven', 'apiGatewayAWS', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: Em casos onde temos interações com outros serviços no meio, pode-se ter atraso ou até perda de todo o processo, fazendo com que o modelo sincrono seja ruim nesses casos.. Exemplo. Você não pode recebe...
+description: Em casos onde temos interações com outros serviços no meio, pode-se ter atraso ou até perda de todo o processo, fazendo com que o modelo sincrono seja ruim nesses casos.. Exemplo. Você não pode recebe...
 ---
 
 # Managing backend requests and frontend notifications in serverless web apps

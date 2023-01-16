@@ -1,10 +1,10 @@
 ---
 title: FrontendMasters - AWS For Front-End Engineers v2
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'course', 'fullStack', 'AWS', 'lambda', 'S3', 'lambdaEdge', 'OAI', 'policies', 'architecture', 'deployment', 'cloudFrontFunctions', 'cloudFront']
-draft: false
-summary: Implement it
-description: Implement it
+draft: true
+summary: Each event type (viewer request, origin request, origin response, and viewer response) can have only one edge function association.. The following table explains the allowed combinations....
+description: Each event type (viewer request, origin request, origin response, and viewer response) can have only one edge function association.. The following table explains the allowed combinations....
 ---
 
 # FrontendMasters - AWS For Front-End Engineers v2

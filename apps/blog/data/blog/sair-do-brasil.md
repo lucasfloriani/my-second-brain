@@ -1,10 +1,10 @@
 ---
 title: # Settee
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['travel']
-draft: false
-summary: Implement it
-description: Implement it
+draft: true
+summary: Empresa do Rafael do Ideias Radical que ajuda no processo. Como faz para criar o passaporte?. Como pagar menos impostos?...
+description: Empresa do Rafael do Ideias Radical que ajuda no processo. Como faz para criar o passaporte?. Como pagar menos impostos?...
 ---
 
 # # Settee

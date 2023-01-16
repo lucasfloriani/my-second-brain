@@ -1,10 +1,10 @@
 ---
 title: Using infer - Marko Bilal
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'fullStack', 'typescript', 'infer', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # Using infer - Marko Bilal

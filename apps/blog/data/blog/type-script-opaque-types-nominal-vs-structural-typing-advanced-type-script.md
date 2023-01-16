@@ -1,10 +1,10 @@
 ---
 title: TypeScript Opaque Types - Nominal vs Structural Typing (Advanced TypeScript)
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'fullStack', 'typescript', 'opaqueTypes', 'flavorTypes', 'brandingTypes', 'architecture', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # TypeScript Opaque Types - Nominal vs Structural Typing (Advanced TypeScript)

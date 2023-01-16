@@ -1,10 +1,10 @@
 ---
 title: Killing Container at Scale
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'devOps', 'container', 'scale']
-draft: false
-summary: Implement it
-description: Implement it
+draft: true
+summary: ...
+description: ...
 ---
 
 # Killing Container at Scale

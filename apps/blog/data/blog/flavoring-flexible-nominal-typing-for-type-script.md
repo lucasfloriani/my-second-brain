@@ -1,10 +1,10 @@
 ---
 title: Flavoring - Flexible Nominal Typing for TypeScript
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'fullStack', 'typescript', 'opaqueTypes', 'flavorTypes', 'brandingTypes', 'architecture', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: Its a technic to allow unbranded values to be implicity converted into the branded type, but doesnt allow implicit conversion between branded types.. When we want to write a code that can safely assum...
+description: Its a technic to allow unbranded values to be implicity converted into the branded type, but doesnt allow implicit conversion between branded types.. When we want to write a code that can safely assum...
 ---
 
 # Flavoring - Flexible Nominal Typing for TypeScript

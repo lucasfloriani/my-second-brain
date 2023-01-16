@@ -1,10 +1,10 @@
 ---
 title: Clean architecture and Domain Driven Design - How to handle DB Transactions
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'backend', 'architecture', 'cleanArchitecture', 'DDD', 'domainDrivenDesign', 'transaction', 'unitOfWork', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: NET MVC Application (9 of 10). In this github issue we can see a good discussion about the ways we can handle it.. PS 2 Unit of work is the same code that I created to solve database transactions wher...
+description: NET MVC Application (9 of 10). In this github issue we can see a good discussion about the ways we can handle it.. PS 2 Unit of work is the same code that I created to solve database transactions wher...
 ---
 
 # Clean architecture and Domain Driven Design - How to handle DB Transactions

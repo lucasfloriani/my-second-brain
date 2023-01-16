@@ -1,10 +1,10 @@
 ---
 title: How databases work?
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'architecture', 'database', 'backend']
-draft: false
-summary: Implement it
-description: Implement it
+draft: true
+summary: ...
+description: ...
 ---
 
 # How databases work?

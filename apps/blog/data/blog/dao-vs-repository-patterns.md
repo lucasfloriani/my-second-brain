@@ -1,10 +1,10 @@
 ---
 title: DAO vs Repository Patterns
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'backend', 'architecture', 'cleanArchitecture', 'DAO', 'repository', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: However, it sits at a higher level closer to the business logic of an app.. Consequently, a repository can use a DAO to fetch data from the database and populate a domain object.. And, a repository is...
+description: However, it sits at a higher level closer to the business logic of an app.. Consequently, a repository can use a DAO to fetch data from the database and populate a domain object.. And, a repository is...
 ---
 
 # DAO vs Repository Patterns

@@ -1,10 +1,10 @@
 ---
 title: How to deal with people personalities
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'people', 'sociology', 'carrer']
-draft: false
-summary: Implement it
-description: Implement it
+draft: true
+summary: ...
+description: ...
 ---
 
 # How to deal with people personalities

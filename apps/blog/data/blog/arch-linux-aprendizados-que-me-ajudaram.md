@@ -1,10 +1,10 @@
 ---
 title: Arch Linux - Aprendizados que me ajudaram
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'operationalSystem', 'SO', 'ArchLinux', 'Linux']
-draft: false
-summary: Implement it
-description: Implement it
+draft: true
+summary: ...
+description: ...
 ---
 
 # Arch Linux - Aprendizados que me ajudaram

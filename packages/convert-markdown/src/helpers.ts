@@ -1,6 +1,8 @@
 import dashify from "dashify";
-import { readdirSync, readFileSync } from "fs";
+import { readdirSync, readFileSync, statSync } from "fs";
 import { compose } from "ramda";
+import removeMarkdown from "remove-markdown";
+import SummaryTool from "node-summary";
 
 export const getFilesInFolder = (folderPath: string): string[] =>
   readdirSync(folderPath).filter((fileName) => fileName !== "Assets");
@@ -19,9 +21,17 @@ const getFileTitle = (fileContent: string, filePath: string): string => {
   return rawTitle.replace("#", "").replace(":", "").trim();
 };
 
-const getFileDate = (): string => {
-  // TODO: Implement date
-  return "2016-03-08";
+const parseDateOrMonth = (number: number): string =>
+  number > 9 ? `${number}` : `0${number}`;
+
+const getFileDate = (filePath: string): string => {
+  const data = statSync(filePath);
+  const { birthtime } = data;
+
+  const date = parseDateOrMonth(birthtime.getDate());
+  const month = parseDateOrMonth(birthtime.getMonth() + 1);
+  const year = birthtime.getFullYear();
+  return `${year}-${month}-${date}`;
 };
 
 const getFileTags = (fileContent: string): string[] => {
@@ -36,12 +46,31 @@ const getFileTags = (fileContent: string): string[] => {
 };
 
 const getIfFileIsDraft = (fileContent: string): boolean =>
-  fileContent.includes("#read") && fileContent.includes("#withResume");
+  !(fileContent.includes("#read") && fileContent.includes("#withResume"));
 
-const getFileSummary = (): string => {
-  // TODO: Implement summary
-  const summary = "Implement it";
-  return summary;
+const getFileSummary = (title: string, fileContent: string): string => {
+  const plainText = removeMarkdown(fileContent);
+  const cleanContent = replaceWithRegex(regexMarkdownImage, (match: string) => [
+    match,
+    "",
+  ])(plainText);
+
+  let summary = "";
+  SummaryTool.summarize(title, cleanContent, (err, contentSummary) => {
+    if (err) throw err;
+    summary = contentSummary;
+  });
+
+  return summary
+    .replace(title, "")
+    .trim()
+    .replace(/:/g, "")
+    .replace(/\.\./g, ".")
+    .split(/\n/)
+    .join(". ")
+    .trim()
+    .slice(0, 200)
+    .concat("...");
 };
 
 const generateMarkdownHeader = ({
@@ -91,8 +120,9 @@ const replaceWithRegex =
       : fileContent;
   };
 
+const regexMarkdownImage = /^!\[\[(.)+[^.mp4]\]\]$/gm;
+
 const getReplaceImagesContent = () => {
-  const regexMarkdownImage = /^!\[\[(.)+[^.mp4]\]\]$/gm;
   const replaceImagesContent = replaceWithRegex(
     regexMarkdownImage,
     (match, index) => {
@@ -166,10 +196,10 @@ const fixSpacingInContent = (fileContent: string): string => {
 export const getParsedFileContent = (filePath: string) => {
   const fileContent = getFileContent(filePath);
   const title = getFileTitle(fileContent, filePath);
-  const date = getFileDate();
+  const date = getFileDate(filePath);
   const tags = getFileTags(fileContent);
   const draft = getIfFileIsDraft(fileContent);
-  const summary = getFileSummary();
+  const summary = getFileSummary(title, fileContent);
 
   const header = generateMarkdownHeader({
     title: title,

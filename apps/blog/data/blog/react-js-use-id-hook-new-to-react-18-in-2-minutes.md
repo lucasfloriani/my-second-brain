@@ -1,10 +1,10 @@
 ---
 title: ReactJS useId Hook (new to React 18) - in 2 minutes
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'frontend', 'react', 'useId', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # ReactJS useId Hook (new to React 18) - in 2 minutes

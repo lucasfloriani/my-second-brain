@@ -1,10 +1,10 @@
 ---
 title: What is the recommended way to load data for React 18
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'architecture', 'frontend', 'react', 'dataFetching', 'react18', 'fetch', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: In Facebook they use Relay, but not always you will have a GraphQL API to implement it...
+description: In Facebook they use Relay, but not always you will have a GraphQL API to implement it...
 ---
 
 # What is the recommended way to load data for React 18

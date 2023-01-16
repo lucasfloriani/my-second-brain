@@ -1,10 +1,10 @@
 ---
 title: Rafael Correa - Observable with React State
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'architecture', 'react', 'observable', 'customHooks', 'functionalProgramming', 'immutability', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # Rafael Correa - Observable with React State

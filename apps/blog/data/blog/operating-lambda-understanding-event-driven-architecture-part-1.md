@@ -1,10 +1,10 @@
 ---
 title: Operating Lambda Understanding event-driven architecture – Part 1
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'architecture', 'lambda', 'eventDriven', 'eventArchitectures', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: Lambdas são propositalmente limitados em 15 minutos, porem em média, através de todos os clientes da AWS, a maioria das invocações de funções duram menos que 1 segundo.. Eventos são imutáveis e o temp...
+description: Lambdas são propositalmente limitados em 15 minutos, porem em média, através de todos os clientes da AWS, a maioria das invocações de funções duram menos que 1 segundo.. Eventos são imutáveis e o temp...
 ---
 
 # Operating Lambda Understanding event-driven architecture – Part 1

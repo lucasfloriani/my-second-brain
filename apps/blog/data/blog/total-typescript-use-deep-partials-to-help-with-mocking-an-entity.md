@@ -1,10 +1,10 @@
 ---
 title: TotalTypescript - Use deep partials to help with mocking an entity
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'fullStack', 'typescript', 'partial', 'utilityType', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # TotalTypescript - Use deep partials to help with mocking an entity

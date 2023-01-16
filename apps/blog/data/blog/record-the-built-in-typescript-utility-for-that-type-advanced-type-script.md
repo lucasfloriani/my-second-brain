@@ -1,10 +1,10 @@
 ---
 title: Record The built-in Typescript Utility for “that” type (Advanced TypeScript)
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'fullStack', 'typescript', 'utilityTypes', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: ...
+description: ...
 ---
 
 # Record The built-in Typescript Utility for “that” type (Advanced TypeScript)

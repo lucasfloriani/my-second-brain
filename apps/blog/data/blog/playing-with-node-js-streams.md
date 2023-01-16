@@ -1,10 +1,10 @@
 ---
 title: Playing with Node.js Streams
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['article', 'fullStack', 'streams', 'node', 'read', 'withResume']
-draft: true
-summary: Implement it
-description: Implement it
+draft: false
+summary: Playing with Node.js Streams. Is important to know that if you want to work with Streams you'll need to work with a pipeline.. txt file with 50GB of size, so if you try to handle this large archive no...
+description: Playing with Node.js Streams. Is important to know that if you want to work with Streams you'll need to work with a pipeline.. txt file with 50GB of size, so if you try to handle this large archive no...
 ---
 
 # Playing with Node.js Streams

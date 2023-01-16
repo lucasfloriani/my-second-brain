@@ -1,10 +1,10 @@
 ---
 title: Impact - Growing as an Engineer
-date: '2016-03-08'
+date: '2023-01-15'
 tags: ['video', 'carrer']
-draft: false
-summary: Implement it
-description: Implement it
+draft: true
+summary: ...
+description: ...
 ---
 
 # Impact - Growing as an Engineer
