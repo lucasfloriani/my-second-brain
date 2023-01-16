@@ -8,6 +8,3 @@ description: Implement it
 ---
 
 # Livro - Capitães da Areia
-
-
-

@@ -8,6 +8,3 @@ description: Implement it
 ---
 
 # Domain Driven Design
-
-
-

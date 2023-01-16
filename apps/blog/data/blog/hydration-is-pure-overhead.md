@@ -9,9 +9,7 @@ description: Implement it
 
 # Hydration is Pure Overhead
 
-
 [Hydration is Pure Overhead](https://www.builder.io/blog/hydration-is-pure-overhead)
-
 
 Hydration is a solution to add interactivity to server-rendered HTML.
 
@@ -39,7 +37,3 @@ In other words, hydration is a hack to recover the `APP_STATE` and `FRAMEWORK
 ### Resumability
 
 ![Fallback text 1](/static/assets/pasted-image-20221007171948.png)
-
-
-
-

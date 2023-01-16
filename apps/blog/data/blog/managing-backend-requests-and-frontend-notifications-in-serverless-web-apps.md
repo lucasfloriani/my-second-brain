@@ -9,9 +9,7 @@ description: Implement it
 
 # Managing backend requests and frontend notifications in serverless web apps
 
-
 [Managing backend requests and frontend notifications in serverless web apps](https://aws.amazon.com/blogs/compute/managing-backend-requests-and-frontend-notifications-in-serverless-web-apps/)
-
 
 ### The synchronous model
 
@@ -19,16 +17,13 @@ Onde vc faz uma chamada e espera pela resposta:
 
 ![Fallback text 1](/static/assets/pasted-image-20220713232811.png)
 
-
 Em casos onde temos interações com outros serviços no meio, pode-se ter atraso ou até perda de todo o processo, fazendo com que o modelo sincrono seja ruim nesses casos. Exemplo:
 
 ![Fallback text 2](/static/assets/pasted-image-20220713233003.png)
 
-
 API Gateway da AWS tem limite de 29 segundos, se for mais da timeout. Exemplo:
 
 ![Fallback text 3](/static/assets/pasted-image-20220713233115.png)
-
 
 As solicitações síncronas também têm outras limitações. Você não pode receber mais de uma resposta por solicitação, nem pode assinar alterações futuras nos dados. Neste exemplo acima, a solicitação de API só pode informar os chamadores sobre os drivers no final da solicitação de processo demorada.
 
@@ -40,11 +35,9 @@ Exemplo de um ecommerce:
 
 ![Fallback text 4](/static/assets/pasted-image-20220713233405.png)
 
-
 Exemplo de um app de perguntas e respostas com arquitetura assincrona:
 
 ![Fallback text 5](/static/assets/pasted-image-20220713233602.png)
-
 
 #### Vantagens e desvantagens
 
@@ -57,7 +50,6 @@ Exemplo de um app de perguntas e respostas com arquitetura assincrona:
 | Failure affects entire request.                              	| Failure only affects segment of request.                                       	|
 | Easy to implement.                                           	| Moderate complexity in implementation                                          	|
 
-
 ### Lidando com valores de resposta e estado em requisições assincronas
 
 Em processos assincronos, você não pode passar um valor de retorno para quem chamou da mesma forma que vc lida com processos sincronos. Existem uma serie de opções disponíveis para desenvolvedores web e mobile para rastrear o estado de requisições a serem processadas.
@@ -68,5 +60,3 @@ Em processos assincronos, você não pode passar um valor de retorno para quem c
 ### AWS IoT Core
 
 É uma boa alternativa em relação ao AWS SNS, sendo integrado em aplicações web por ser mais preferivel em casos de publish-subscribe
-
-

@@ -9,12 +9,9 @@ description: Implement it
 
 # Qwik
 
-
 [Página oficial](https://qwik.builder.io/)
 
-
 ![Fallback text 1](/static/assets/pasted-image-20221006183236.png)
-
 
 ## [Resumable vs Hydration](https://github.com/BuilderIO/qwik/blob/main/packages/docs/src/routes/docs/concepts/resumable/index.mdx)
 
@@ -32,7 +29,6 @@ When an SSR/SSG application boots up on a client, it requires that the framework
 2.  The frameworks have to execute the templates associated with the components on the page to rebuild the listener location and the internal component tree.
 
 ![Fallback text 2](/static/assets/pasted-image-20221005204620.png)
-
 
 Qwik is different because it does not require hydration to resume an application on the client. Not requiring hydration is what makes the Qwik application startup instantaneous.
 
@@ -108,7 +104,6 @@ This connect with Qwik's [core tenant](https://github.com/BuilderIO/qwik/blob/m
 -   Lazy loading boundaries are 100% delegated to the developer
 -   Frameworks can only lazy load components that are not in the current render tree.
 
-
 ### Solution
 
 #### Optimizer
@@ -139,7 +134,6 @@ Lazy-loading is a core property of the framework and not an afterthought.
 
 ![Fallback text 3](/static/assets/pasted-image-20221005215754.png)
 
-
 Notice the presence of `$` in the code. `$` is a marker that tells the Optimizer that the function following it should be lazy-loaded. (For a detailed discussion see [$ and Optimizer Rules](https://github.com/BuilderIO/qwik/blob/main/packages/docs/src/routes/docs/advanced/optimizer/index.mdx).) The `$` is a single character that hints to the Optimizer and the developer to let them know that asynchronous lazy-loading occurs here.
 
 ### My vision from Progressively:
@@ -157,11 +151,9 @@ Let's start by looking at a simple `Counter` example:
 
 ![Fallback text 4](/static/assets/pasted-image-20221005220846.png)
 
-
 The above code represents what a developer would write to describe the component. Below are the transformations that the Optimizer applies to the code to make the code lazy-loadable.
 
 ![Fallback text 5](/static/assets/pasted-image-20221005220904.png)
-
 
 Notice that every occurrence of `$` results in a new lazy loadable symbol.
 
@@ -177,11 +169,9 @@ We use `$()` as a marker function for this purpose.
 
 ![Fallback text 6](/static/assets/pasted-image-20221005221238.png)
 
-
 The Optimizer will generate:
 
 ![Fallback text 7](/static/assets/pasted-image-20221005221255.png)
-
 
 Notice:
 
@@ -192,7 +182,6 @@ However, wrapping code in `$()` is a bit inconvenient. For this reason, Optimi
 
 ![Fallback text 8](/static/assets/pasted-image-20221005221427.png)
 
-
 Now the developer has a very easy syntax for expressing that a particular function should be lazy-loaded.
 
 #### Symbol Extraction
@@ -201,17 +190,14 @@ Assume that you have this code:
 
 ![Fallback text 9](/static/assets/pasted-image-20221005221546.png)
 
-
 The Optimizer breaks the code up into two files:
 
 ![Fallback text 10](/static/assets/pasted-image-20221005221611.png)
-
 
 The result of Optimizer is that the `MyComp`'s `onMount` method was extracted into a new file. There are a few benefits to doing this:
 
 -   A Parent component can refer to `MyComp` without pulling in `MyComp` implementation details.
 -   The application now has more entry points, giving the bundler more ways to chunk up the codebase.
-
 
 #### Optimizer Rules
 
@@ -228,21 +214,17 @@ The `$` is not only a marker for the Optimizer but also a marker for the devel
 
 ![Fallback text 11](/static/assets/pasted-image-20221005222244.png)
 
-
 The reason for the above rule becomes obvious when the output is examined.
 
 ![Fallback text 12](/static/assets/pasted-image-20221005222306.png)
-
 
 **Closures RULE**: If a function lexically captures a variable (or parameter), that variable must be (1) a `const` and (2) the value must be serializable.
 
 ![Fallback text 13](/static/assets/pasted-image-20221005222405.png)
 
-
 Again looking at the generated code reveals why these rules must be so:
 
 ![Fallback text 14](/static/assets/pasted-image-20221005222438.png)
-
 
 ### My vision from Optimizer:
 
@@ -279,9 +261,7 @@ Qwik City has Directory-based Routing (equal Next.js)
 
 ![Fallback text 15](/static/assets/pasted-image-20221006183857.png)
 
-
 It uses `<Slot />`  for children
-
 
 ### My vision from Docs:
 
@@ -294,5 +274,3 @@ It uses `<Slot />`  for children
 - Has middlewares for Cloudflare Pages, Netlify Edge, and Node
 - O(1) complexity
 - Simple documentation, maybe more things can make it better?
-
-

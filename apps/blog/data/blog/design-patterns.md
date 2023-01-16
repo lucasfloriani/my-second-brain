@@ -8,6 +8,3 @@ description: Implement it
 ---
 
 # Design Patterns
-
-
-

@@ -11,7 +11,6 @@ description: Implement it
 
 [SOLID - The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
-
 _SOLID_ is an acronym for the first five object-oriented design (OOD) principles by Robert C. Martin (also known as [Uncle Bob](http://en.wikipedia.org/wiki/Robert_Cecil_Martin)).
 
 ## S - Single-responsability Principle
@@ -28,7 +27,6 @@ Code without the principle:
 
 ![Fallback text 4](/static/assets/pasted-image-20221016175928.png)
 
-
 The problem with the output method is that the `AreaCalculator` handles the logic to output the data.
 Consider a scenario where the output should be converted to another format like JSON.
 All of the logic would be handled by the `AreaCalculator` class. This would violate the single-responsibility principle. The `AreaCalculator` class should only be concerned with the sum of the areas of provided shapes. It should not care whether the user wants JSON or HTML.
@@ -40,7 +38,6 @@ Code with the principle:
 
 ![Fallback text 6](/static/assets/pasted-image-20221016180126.png)
 
-
 ## O - Open-Closed Principle
 
 _Objects or entities should be open for extension but closed for modification._
@@ -48,7 +45,6 @@ _Objects or entities should be open for extension but closed for modification._
 Code without principle:
 
 ![Fallback text 7](/static/assets/pasted-image-20221016181628.png)
-
 
 The issue is that every time we have a different type of shape we will need to add more if statements there, to fix that we will make each Shape has their own area method
 
@@ -68,7 +64,6 @@ Code with principle:
 
 ![Fallback text 14](/static/assets/pasted-image-20221016181840.png)
 
-
 ## L - Liskov Substitution Principle
 
 _Let q(x) be a property provable about objects of x of type T. Then q(y) should be provable for objects y of type S where S is a subtype of T._
@@ -81,13 +76,11 @@ This means that every subclass or derived class should be substitutable for thei
 
 ![Fallback text 17](/static/assets/pasted-image-20221016182337.png)
 
-
 When you call the `HTML` method on the `$output2` object, you will get an `E_NOTICE` error informing you of an array to string conversion.
 
 To fix this, instead of returning an array from the `VolumeCalculator` class sum method, return `$summedData`:
 
 ![Fallback text 18](/static/assets/pasted-image-20221016182437.png)
-
 
 The `$summedData` can be a float, double or integer.
 
@@ -105,16 +98,13 @@ Using the previous code, now we need to implement volume for three-dimensional s
 
 ![Fallback text 19](/static/assets/pasted-image-20221016183116.png)
 
-
 To make our code use the principle, we will break those methods in different interfaces so we could apply only on classes that really use them.
 
 ![Fallback text 20](/static/assets/pasted-image-20221016183213.png)
 
-
 To improve even forward we can create a interface for calculate too
 
 ![Fallback text 21](/static/assets/pasted-image-20221016183252.png)
-
 
 ## D - Dependency Inversion Principle
 
@@ -126,11 +116,8 @@ Code without the principle:
 
 ![Fallback text 22](/static/assets/pasted-image-20221016183627.png)
 
-
 Code with the principle:
 
 ![Fallback text 23](/static/assets/pasted-image-20221016183646.png)
 
 ![Fallback text 24](/static/assets/pasted-image-20221016183658.png)
-
-

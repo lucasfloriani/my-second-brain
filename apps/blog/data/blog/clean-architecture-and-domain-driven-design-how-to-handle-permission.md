@@ -11,9 +11,7 @@ description: Implement it
 
 [Authorization and authentication in clean architecture](https://lessthan12ms.com/authorization-and-authentication-in-clean-architecture.html)
 
-
 ![Fallback text 1](/static/assets/pasted-image-20230101191301.png)
-
 
 ## Uncle Bob Thoughts
 
@@ -32,4 +30,3 @@ Ways of having authentication data retrieved:
 -   Queued command (job) will also have some `user_id` data in it, which will set the caller id.
 
 Most likely you will patch the data of the user authentication in a DTO to pass to the Use Case layer to decide if can continue or not.
-

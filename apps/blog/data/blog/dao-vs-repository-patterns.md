@@ -11,7 +11,6 @@ description: Implement it
 
 [DAO vs Repository Patterns](https://www.baeldung.com/java-dao-vs-repository)
 
-
 ## DAO Pattern (Data Access Object)
 
 Is an abstraction of data persistence and is considered closer to the underlying storage, which is often table-centric (SQL Database)
@@ -26,7 +25,6 @@ Most of the time the DAOs match the database tables, and used to hide the ugly q
 
 ![Fallback text 3](/static/assets/pasted-image-20230101150308.png)
 
-
 ## Repository Pattern
 
 In **Domain-Driven Design book**, repository is a mechanism for encapsulating storage, retrieval, and search behavior, which emulates a collection of objects
@@ -37,13 +35,11 @@ In other words, a repository also deals with data and hides queries similar to D
 
 Consequently, a repository can use a DAO to fetch data from the database and populate a domain object. Or, it can prepare the data from a domain object and send it to a storage system using a DAO for persistence.
 
-
 #### Repository Example
 
 ![Fallback text 4](/static/assets/pasted-image-20230101150720.png)
 
 ![Fallback text 5](/static/assets/pasted-image-20230101150745.png)
-
 
 So far, we can say that the implementations of DAO and repository look very similar because the _User_ class is an anemic domain. And, a repository is just another layer over the data-access layer (DAO).
 
@@ -65,7 +61,6 @@ Imagine we want to prepare a social media profile of a user by aggregating his T
 
 ![Fallback text 10](/static/assets/pasted-image-20230101174013.png)
 
-
 **A repository can relies on DAOs for accessing data from various sources**
 
 ## Comparing the Two Patterns
@@ -78,5 +73,3 @@ Imagine we want to prepare a social media profile of a user by aggregating his T
 PS 1: Also, if we have an anemic domain, the repository will be just a DAO
 PS 2: Anemic domain is when a model doesn't have logic in it
 PS 3: The repository pattern encourages a domain-driven design, providing an easy understanding of the data structure for non-technical team members, too
-
-

@@ -11,7 +11,6 @@ description: Implement it
 
 [AWS - Difference between SQS and SNS](https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5)
 
-
 **SNS** is a distributed **publish-subscribe** service.
 **SQS** is distributed **queuing** service.
 
@@ -71,8 +70,6 @@ PS: We can design **fanout** pattern by using both SNS and SQS. In this patter
 
 ![Fallback text 1](/static/assets/pasted-image-20221205212837.png)
 
-
 ## Resume
 
 SQS is mainly used to decouple applications. SNS distributes several copies of message to several subscribers.
-

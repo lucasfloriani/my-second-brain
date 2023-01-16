@@ -13,7 +13,6 @@ description: Implement it
 
 [Temporary Queue Client Now Available for Amazon SQS](https://aws.amazon.com/about-aws/whats-new/2019/07/temporary-queue-client-now-available-for-amazon-sqs/)
 
-
 Temporary queues help you save development time and deployment costs when using common message patterns such as _request-response_. You can use the [Temporary Queue Client](https://github.com/awslabs/amazon-sqs-java-temporary-queues-client) to create high-throughput, cost-effective, application-managed temporary queues.
 
 ## How it works
@@ -52,6 +51,3 @@ The most common use case for temporary queues is the _request-response_ messag
 The following diagram shows a common configuration using this pattern.
 
 ![Fallback text 1](/static/assets/pasted-image-20221207212538.png)
-
-
-

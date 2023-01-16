@@ -9,10 +9,6 @@ description: Implement it
 
 # AWS Well-Architected
 
-
 [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 
-
 ## Resume
-
-

@@ -8,6 +8,3 @@ description: Implement it
 ---
 
 # Livro - Sobre a Brevidade da Vida
-
-
-

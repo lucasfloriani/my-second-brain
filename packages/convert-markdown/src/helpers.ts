@@ -159,6 +159,10 @@ const placeHeadersInContent =
     return content;
   };
 
+const fixSpacingInContent = (fileContent: string): string => {
+  return fileContent.replace(/(\n){3,}/g, "\n\n").trim();
+};
+
 export const getParsedFileContent = (filePath: string) => {
   const fileContent = getFileContent(filePath);
   const title = getFileTitle(fileContent, filePath);
@@ -176,6 +180,7 @@ export const getParsedFileContent = (filePath: string) => {
   });
 
   return compose(
+    fixSpacingInContent,
     placeHeadersInContent(header, title),
     removeTitleFromContent(title),
     removeTasksSection,

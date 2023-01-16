@@ -9,10 +9,6 @@ description: Implement it
 
 # TotalTypescript - Use 'extends' keyword to narrow the value of a generic
 
-
 [TotalTypescript - Use 'extends' keyword to narrow the value of a generic](https://www.totaltypescript.com/tips/use-extends-keyword-to-narrow-the-value-of-a-generic)
 
-
 ![Fallback text 1](/static/assets/pasted-image-20221011202624.png)
-
-

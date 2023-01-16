@@ -11,7 +11,6 @@ description: Implement it
 
 [SOLID is FP!](https://gist.github.com/anabastos/d32741ed49305169a73ee85792ebdc03)
 
-
 ## S - Single Responsability Principle
 
 A pure function is something with a single responsibility, turning its input into an output. What could be simpler
@@ -31,5 +30,3 @@ What are better client interfaces than a single function? just a function of cou
 ## D - Dependency Inversion Principle
 
 That's where FP shines, first-class functions are dependency inversion at the core. They're so pervasive in FP that you use without noticing all the boiler-plate code you didn't needed to write.
-
-

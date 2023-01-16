@@ -9,10 +9,6 @@ description: Implement it
 
 # TotalTypescript - Use deep partials to help with mocking an entity
 
-
 [TotalTypescript - Use deep partials to help with mocking an entity](https://www.totaltypescript.com/tips/use-deep-partials-to-help-with-mocking-an-entity)
 
-
 ![Fallback text 1](/static/assets/pasted-image-20221012173002.png)
-
-

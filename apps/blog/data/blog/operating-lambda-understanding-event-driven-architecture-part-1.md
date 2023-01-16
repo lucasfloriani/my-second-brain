@@ -9,9 +9,7 @@ description: Implement it
 
 # Operating Lambda Understanding event-driven architecture – Part 1
 
-
 [Operating Lambda Understanding event-driven architecture – Part 1](https://aws.amazon.com/blogs/compute/operating-lambda-understanding-event-driven-architecture-part-1/)
-
 
 ### Vantagens
 
@@ -37,16 +35,13 @@ Eventos são um JSON com dados do evento disparado. Eventos são imutáveis e o 
 
 ![Fallback text 1](/static/assets/pasted-image-20220711213021.png)
 
-
 O JSON do Evento é passado como primeiro parametro ao event handler:
 
 ![Fallback text 2](/static/assets/pasted-image-20220711213139.png)
 
-
 Lambdas agem como uma cola entre os serviços, provendo logica de negócio nas transformações de dados enquanto ela passa através dos serviços.
 
 ![Fallback text 3](/static/assets/pasted-image-20220711213507.png)
-
 
 Abordagens para aquiteturar um projeto Event Driven:
 - Event storming, O qual é uma abordagem interativa do Domain Driven Design (DDD)
@@ -61,4 +56,3 @@ Abordagens para aquiteturar um projeto Event Driven:
 - Eventual consistency ( #acid )
 - Returning values to callers (because of many steps between services)
 - Debugging
-

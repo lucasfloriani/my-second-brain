@@ -25,9 +25,7 @@ description: Implement it
 
 [The fallacy of the always-valid entity](https://jeffreypalermo.com/2009/05/the-fallacy-of-the-always-valid-entity)
 
-
 ![Fallback text 1](/static/assets/pasted-image-20230101191301.png)
-
 
 ## Uncle Bob Thoughts
 
@@ -87,16 +85,13 @@ _Business rules manifest themselves as invariants in the domain model and as inp
 
 ![Fallback text 2](/static/assets/pasted-image-20230101200451.png)
 
-
 This difference leads to different treatment of violations of these business rules. An invariant violation in the domain model is an exceptional situation and should be met with throwing an exception. On the other hand, there’s nothing exceptional in external input being incorrect. You shouldn’t throw exceptions in such cases and instead should use a `Result` class.
 
 Here’s a picture that will help you form a right mental model:
 
 ![Fallback text 3](/static/assets/pasted-image-20230101200708.png)
 
-
 Existing validation rules may not apply to historical data. For example, let’s say that your application didn’t require students to fill out their addresses, but now it does: any newly registered students must have a valid address.
-
 
 ## Reasons to put validation in Domain Layer (Not absolute)
 
@@ -134,4 +129,3 @@ Existing validation rules may not apply to historical data. For example, let’s
 - We could have a duplication of some validations but it's the path that I found while reading everything;
 - Two-step validation is a way to validate the DTOs and at the Domain level too ([.Net Microsoft documentation](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-model-layer-validations#two-step-validation))
 - All validations, not matter how simple, are a result of business requirements and the negotiation between those requirements and technical limitations. The only distinction here is that some validations are simpler than others.
-

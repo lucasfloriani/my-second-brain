@@ -9,7 +9,4 @@ description: Implement it
 
 # Killing Container at Scale
 
-
 [Killing Container at Scale](https://blog.repl.it/killing-containers-at-scale)
-
-

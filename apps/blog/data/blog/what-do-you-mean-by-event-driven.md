@@ -9,9 +9,7 @@ description: Implement it
 
 # What do you mean by Event-Driven
 
-
 [What do you mean by Event-Driven(https://martinfowler.com/articles/201701-event-driven.html)
-
 
 _TLDR: É sobre as termologias usados quando falamos sobre Event-Driven, eles são confundido em 1 só termo._
 
@@ -50,4 +48,3 @@ CQRS é a noção de ter estruturas de dados separadas para ler e escrever infor
 Temos o downside de ter que gerenciar ambas estruturas de entreda e saida, logo temos que ver se realmente é vantajoso.
 
 " I find many of my colleagues are deeply wary of using CQRS, finding it often misused." - Martin Fowler 2017
-

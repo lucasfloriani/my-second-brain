@@ -9,9 +9,7 @@ description: Implement it
 
 # Stronger JavaScript with Opaque Types
 
-
 [Stronger JavaScript with Opaque Types](https://codemix.com/opaque-types-in-javascript)
-
 
 ### What is Opaque Types?
 
@@ -21,25 +19,19 @@ Example of a code that doesnt ensure the correct usage of parameters because of 
 
 ![Fallback text 1](/static/assets/pasted-image-20221003203241.png)
 
-
 ![Fallback text 2](/static/assets/pasted-image-20221003203256.png)
-
 
 This code is passing the amount first, even tought it expected the accountNumber
 
 To ensure something like this in the Type level, we can use Opaque Types
 
-
 ### How to declare it?
 
 ![Fallback text 3](/static/assets/pasted-image-20221003203419.png)
 
-
 A generic to abstract the logic for us:
 
 ![Fallback text 4](/static/assets/pasted-image-20221003203506.png)
-
-
 
 #### How it affects the code?
 
@@ -47,10 +39,6 @@ Check this example bellow:
 
 ![Fallback text 5](/static/assets/pasted-image-20221003203604.png)
 
-
 Using the code above in an application:
 
 ![Fallback text 6](/static/assets/pasted-image-20221003203616.png)
-
-
-

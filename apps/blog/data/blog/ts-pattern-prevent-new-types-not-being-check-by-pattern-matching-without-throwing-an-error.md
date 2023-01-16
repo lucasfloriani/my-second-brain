@@ -9,14 +9,8 @@ description: Implement it
 
 # TS Pattern - Prevent new types not being check by pattern matching without throwing an error
 
-
-
-
 ![Fallback text 1](/static/assets/pasted-image-20221014202840.png)
-
 
 Another form is this way:
 
 ![Fallback text 2](/static/assets/pasted-image-20221016185856.png)
-
-

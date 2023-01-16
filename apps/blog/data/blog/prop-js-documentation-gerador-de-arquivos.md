@@ -9,7 +9,4 @@ description: Implement it
 
 # Prop JS - Documentation (Gerador de arquivos)
 
-
 [Prop JS - Documentation (Gerador de arquivos)](https://plopjs.com/documentation)
-
-

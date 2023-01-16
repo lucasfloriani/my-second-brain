@@ -9,7 +9,4 @@ description: Implement it
 
 # Subscriptions and live queries in GraphQL
 
-
 [Subscriptions and live queries in GraphQL](https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql)
-
-

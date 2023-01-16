@@ -9,11 +9,6 @@ description: Implement it
 
 # TotalTypescript - Use function overloads and generics to type a compose function
 
-
 [TotalTypescript - Use function overloads and generics to type a compose function](https://www.totaltypescript.com/tips/use-function-overloads-and-generics-to-type-a-compose-function)
 
-
-
 ![Fallback text 1](/static/assets/pasted-image-20221011201925.png)
-
-

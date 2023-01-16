@@ -9,7 +9,6 @@ description: Implement it
 
 # Travel - Peru
 
-
 ## Cidades
 
 TODO: Add info
@@ -32,11 +31,9 @@ TODO: Add info
 
 ![Fallback text 4](/static/assets/pasted-image-20230109175917.png)
 
-
 #### WaynaPicchu
 
 ![Fallback text 5](/static/assets/pasted-image-20230108175640.png)
-
 
 #### Salkantay Trek
 
@@ -199,8 +196,6 @@ TODO: Add info
 
 ![Fallback text 71](/static/assets/pasted-image-20230113222845.png)
 
-
-
 - Incaz lost city
 - One of the seven wonders of the mordern world
 - 2100 m above the sea level
@@ -224,7 +219,6 @@ They say in the [video](https://www.youtube.com/watch?v=iFm-PBRwwfc) to hire a g
 
 ![Fallback text 73](/static/assets/pasted-image-20230109175111.png)
 
-
 - The ancient capital of the Incaz empire
 - The most visited city in Peru (2 million visitors per year)
 - Is the start city for visitor who wants to visit Machu Picchu
@@ -237,11 +231,9 @@ They say in the [video](https://www.youtube.com/watch?v=iFm-PBRwwfc) to hire a g
 Catedral
 ![Fallback text 74](/static/assets/pasted-image-20230108173002.png)
 
-
 ### Lima
 
 ![Fallback text 75](/static/assets/pasted-image-20230108173100.png)
-
 
 - Actual capital of the country
 - Biggest city
@@ -265,7 +257,6 @@ Catedral
 ![Fallback text 80](/static/assets/pasted-image-20230109173500.png)
 
 ![Fallback text 81](/static/assets/pasted-image-20230109173523.png)
-
 
 - 5 hours travell to the south of Lima, and 5km from Ica (10 minutes from Ica)
 - Oasis
@@ -296,7 +287,6 @@ Catedral
 
 ![Fallback text 89](/static/assets/pasted-image-20230109174832.png)
 
-
 - You can visit the vulcan Misti
 - No sul do Peru
 - Construções com pedras brancas
@@ -311,13 +301,11 @@ Catedral
 
 ![Fallback text 92](/static/assets/pasted-image-20230109174451.png)
 
-
 #### Ollantaytambo
 
 ![Fallback text 93](/static/assets/pasted-image-20230109174433.png)
 
 ![Fallback text 94](/static/assets/pasted-image-20230109174513.png)
-
 
 - 3 cities that has a lot of places to visit, mostly historical places
 - Região perto de Cuzco com várias ruinas incas e sitios arqueológicos
@@ -337,7 +325,6 @@ Catedral
 
 ![Fallback text 100](/static/assets/pasted-image-20230109210209.png)
 
-
 - Naturally colored montains
 - To get in there it's not easy, a long walk to get there (5km) and 5200 meters above the sea level
 - [Agencia passou as 4 da manhã](https://youtu.be/MUliQrBD99g?t=747)
@@ -356,14 +343,11 @@ Catedral
 
 ![Fallback text 102](/static/assets/pasted-image-20230109172242.png)
 
-
 Loki é uma hospedagem daora de lá
 
 ![Fallback text 103](/static/assets/pasted-image-20230109172307.png)
 
-
 É pra balada
-
 
 ### Paracas
 
@@ -376,7 +360,6 @@ Loki é uma hospedagem daora de lá
 ![Fallback text 107](/static/assets/pasted-image-20230109174128.png)
 
 ![Fallback text 108](/static/assets/pasted-image-20230109174146.png)
-
 
 - Perto de Ica, da pra fazer depois de Huacachina
 - É onde o deserto se encontra com o oceano pacifico
@@ -404,7 +387,6 @@ Loki é uma hospedagem daora de lá
 - Cachoeira mais alta do Peru, sendo a quinta maior cachoeira do mundo
 - Outro lugar de uma outra civilização antiga (Kuelap)
 
-
 ### Huaraz City
 
 #### 69 Lagoon, Ancash
@@ -412,7 +394,6 @@ Loki é uma hospedagem daora de lá
 ![Fallback text 114](/static/assets/pasted-image-20230108173752.png)
 
 ![Fallback text 115](/static/assets/pasted-image-20230108173814.png)
-
 
 ![Fallback text 116](/static/assets/pasted-image-20230109180543.png)
 
@@ -432,7 +413,6 @@ Loki é uma hospedagem daora de lá
 
 ![Fallback text 124](/static/assets/pasted-image-20230109180750.png)
 
-
 #### Humantay Lake
 
 ![Fallback text 125](/static/assets/pasted-image-20230109210518.png)
@@ -440,8 +420,6 @@ Loki é uma hospedagem daora de lá
 ![Fallback text 126](/static/assets/pasted-image-20230109210538.png)
 
 ![Fallback text 127](/static/assets/pasted-image-20230109210609.png)
-
-
 
 - [Video](https://youtu.be/CTZwKli5rCQ?t=776) fala que é o melhor lugar que ele esteve
 - 10 horas de onibus indo de Lima, é ao norte
@@ -452,13 +430,11 @@ Loki é uma hospedagem daora de lá
 - Região mais rustica
 - Paisagens magnificas
 
-
 ### Ayacucho
 
 ![Fallback text 128](/static/assets/pasted-image-20230109181011.png)
 
 ![Fallback text 129](/static/assets/pasted-image-20230109181003.png)
-
 
 - Termas
 
@@ -467,7 +443,6 @@ Loki é uma hospedagem daora de lá
 ![Fallback text 130](/static/assets/pasted-image-20230109200811.png)
 
 ![Fallback text 131](/static/assets/pasted-image-20230109200829.png)
-
 
 - Tem agencia que faz o passeio bem cedo, as 5 da manhã, 2 horas de viagem e mais 1 de estrada de chão
 - Pra chegar la ainda é preciso andar 3,5km de ida e mais 3,5km de volta, tem muita subida e terreno irregular
@@ -488,7 +463,6 @@ Loki é uma hospedagem daora de lá
 ![Fallback text 135](/static/assets/pasted-image-20230109202606.png)
 
 ![Fallback text 136](/static/assets/pasted-image-20230109202633.png)
-
 
 ### Máncora
 
@@ -512,7 +486,6 @@ Loki é uma hospedagem daora de lá
 
 ![Fallback text 142](/static/assets/pasted-image-20230113150341.png)
 
-
 #### Scuba dive (Spondylus Dive Center)
 
 ![Fallback text 143](/static/assets/pasted-image-20230113144612.png)
@@ -531,12 +504,9 @@ Loki é uma hospedagem daora de lá
 
 ![Fallback text 150](/static/assets/pasted-image-20230113145702.png)
 
-
-
 ### Gocta
 
 TODO: Add info
-
 
 ## Gastronomia
 
@@ -549,16 +519,13 @@ Lima has good food.
 
 ![Fallback text 152](/static/assets/pasted-image-20230109202212.png)
 
-
 #### Inca Kola is like bubble gum
 
 ![Fallback text 153](/static/assets/pasted-image-20230109191321.png)
 
-
 #### Alpaca meat is tasty
 
 ![Fallback text 154](/static/assets/pasted-image-20230109191234.png)
-
 
 #### Ceviche is one of the most tipical foods in Peru
 
@@ -566,23 +533,19 @@ Lima has good food.
 
 ![Fallback text 156](/static/assets/pasted-image-20230108182129.png)
 
-
 #### Punto Azul classic restaurant that has Ceviche (More accesible)
 
 ![Fallback text 157](/static/assets/pasted-image-20230108190718.png)
 
-
 #### Central is a must go, best in Latin America
 
 ![Fallback text 158](/static/assets/pasted-image-20230108190929.png)
-
 
 #### Sangucheria El Chinito
 
 ![Fallback text 159](/static/assets/pasted-image-20230108191020.png)
 
 ![Fallback text 160](/static/assets/pasted-image-20230108190616.png)
-
 
 #### Puku Puku for coffee break (Amazon coffee)
 
@@ -592,7 +555,6 @@ Lima has good food.
 
 ![Fallback text 163](/static/assets/pasted-image-20230108191338.png)
 
-
 #### Grimanesa Vargas Anticuchos (only cow hearts)
 
 ![Fallback text 164](/static/assets/pasted-image-20230108191500.png)
@@ -600,7 +562,6 @@ Lima has good food.
 ![Fallback text 165](/static/assets/pasted-image-20230108191515.png)
 
 ![Fallback text 166](/static/assets/pasted-image-20230108191645.png)
-
 
 #### Matria
 
@@ -616,13 +577,11 @@ Lima has good food.
 
 ![Fallback text 172](/static/assets/pasted-image-20230108192045.png)
 
-
 #### Ayahuasca Resto Bar (For Drinks)
 
 ![Fallback text 173](/static/assets/pasted-image-20230108192124.png)
 
 ![Fallback text 174](/static/assets/pasted-image-20230108192239.png)
-
 
 #### Morena Peruvian Kitchen
 
@@ -638,7 +597,6 @@ Lima has good food.
 
 ![Fallback text 180](/static/assets/pasted-image-20230109205148.png)
 
-
 - Near Plaza de Armas
 - Make a reservation to ensure you can a table
 - Peruvian diches
@@ -647,7 +605,6 @@ Lima has good food.
 
 ![Fallback text 181](/static/assets/pasted-image-20230109205812.png)
 
-
 #### Del Wawa - Mancora
 
 ![Fallback text 182](/static/assets/pasted-image-20230113145815.png)
@@ -655,7 +612,6 @@ Lima has good food.
 ![Fallback text 183](/static/assets/pasted-image-20230113145914.png)
 
 ![Fallback text 184](/static/assets/pasted-image-20230113145936.png)
-
 
 TODO: Add photos from those foods
 
@@ -675,29 +631,23 @@ TODO: Add photos from those foods
 
 ![Fallback text 187](/static/assets/pasted-image-20230109210025.png)
 
-
-
 ## Drinks
 
 #### Pisco is a local Licor
 
 ![Fallback text 188](/static/assets/pasted-image-20230109191118.png)
 
-
 #### Chicha (Alcohol drink made from corn, panela, and pineapple)
 
 ![Fallback text 189](/static/assets/pasted-image-20230108190657.png)
-
 
 #### Beer is Pretty tasty
 
 ![Fallback text 190](/static/assets/pasted-image-20230109190945.png)
 
-
 #### Beer made with Coca
 
 ![Fallback text 191](/static/assets/pasted-image-20230109201223.png)
-
 
 ## Transporte
 
@@ -720,7 +670,6 @@ TODO: Add info
 ## Energia
 
 ![Fallback text 192](/static/assets/pasted-image-20230108180846.png)
-
 
 - The power outlets here are 220V
 - The plug is US or European style
@@ -768,7 +717,6 @@ TODO: Add info
 Alguns mercados populares acabam tendo uma [situação higienica precaria](https://youtu.be/1QICUln_y84?t=325), carne principalmente
 
 ![Fallback text 193](/static/assets/pasted-image-20230109182534.png)
-
 
 ## Conclusão
 
@@ -821,7 +769,6 @@ TODO: Centralize thing by city
 
 [Hiking the Salkantay Trek to Machu Picchu 🇵🇪 Backpacking Peru Travel Vlog](https://www.youtube.com/watch?v=_0GoqiPgVcE)
 
-
 ### Channels
 
 [Joyous Travel](https://www.youtube.com/@JoyousTravelYT)
@@ -849,5 +796,3 @@ TODO: Centralize thing by city
 [Vibe de Dois](https://www.youtube.com/@VibedeDois)
 
 [viajei aqui.](https://www.youtube.com/@viajeiaqui)
-
-
