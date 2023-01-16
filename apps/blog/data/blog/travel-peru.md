@@ -1,12 +1,13 @@
 ---
 title: Travel - Peru
 date: '2016-03-08'
-tags: ['article']
+tags: []
 draft: false
 summary: Implement it
 description: Implement it
 ---
 
+# Travel - Peru
 
 
 ## Cidades
@@ -395,8 +396,7 @@ Loki é uma hospedagem daora de lá
 
 ![Fallback text 113](/static/assets/pasted-image-20230109175743.png)
 
-![Fallback text 114](/static/assets/pasted-image-20230109175544.png)
-****
+![[Pasted image 20230109175544.png]]****
 
 - Ótimo para trilhas
 - Ao norte do Peru
@@ -409,37 +409,37 @@ Loki é uma hospedagem daora de lá
 
 #### 69 Lagoon, Ancash
 
-![Fallback text 115](/static/assets/pasted-image-20230108173752.png)
+![Fallback text 114](/static/assets/pasted-image-20230108173752.png)
 
-![Fallback text 116](/static/assets/pasted-image-20230108173814.png)
+![Fallback text 115](/static/assets/pasted-image-20230108173814.png)
 
 
-![Fallback text 117](/static/assets/pasted-image-20230109180543.png)
+![Fallback text 116](/static/assets/pasted-image-20230109180543.png)
 
-![Fallback text 118](/static/assets/pasted-image-20230109180559.png)
+![Fallback text 117](/static/assets/pasted-image-20230109180559.png)
 
-![Fallback text 119](/static/assets/pasted-image-20230109180614.png)
+![Fallback text 118](/static/assets/pasted-image-20230109180614.png)
 
-![Fallback text 120](/static/assets/pasted-image-20230109180626.png)
+![Fallback text 119](/static/assets/pasted-image-20230109180626.png)
 
-![Fallback text 121](/static/assets/pasted-image-20230109180640.png)
+![Fallback text 120](/static/assets/pasted-image-20230109180640.png)
 
-![Fallback text 122](/static/assets/pasted-image-20230109180700.png)
+![Fallback text 121](/static/assets/pasted-image-20230109180700.png)
 
-![Fallback text 123](/static/assets/pasted-image-20230109180713.png)
+![Fallback text 122](/static/assets/pasted-image-20230109180713.png)
 
-![Fallback text 124](/static/assets/pasted-image-20230109180734.png)
+![Fallback text 123](/static/assets/pasted-image-20230109180734.png)
 
-![Fallback text 125](/static/assets/pasted-image-20230109180750.png)
+![Fallback text 124](/static/assets/pasted-image-20230109180750.png)
 
 
 #### Humantay Lake
 
-![Fallback text 126](/static/assets/pasted-image-20230109210518.png)
+![Fallback text 125](/static/assets/pasted-image-20230109210518.png)
 
-![Fallback text 127](/static/assets/pasted-image-20230109210538.png)
+![Fallback text 126](/static/assets/pasted-image-20230109210538.png)
 
-![Fallback text 128](/static/assets/pasted-image-20230109210609.png)
+![Fallback text 127](/static/assets/pasted-image-20230109210609.png)
 
 
 
@@ -455,18 +455,18 @@ Loki é uma hospedagem daora de lá
 
 ### Ayacucho
 
-![Fallback text 129](/static/assets/pasted-image-20230109181011.png)
+![Fallback text 128](/static/assets/pasted-image-20230109181011.png)
 
-![Fallback text 130](/static/assets/pasted-image-20230109181003.png)
+![Fallback text 129](/static/assets/pasted-image-20230109181003.png)
 
 
 - Termas
 
 ### Laguna Humantay
 
-![Fallback text 131](/static/assets/pasted-image-20230109200811.png)
+![Fallback text 130](/static/assets/pasted-image-20230109200811.png)
 
-![Fallback text 132](/static/assets/pasted-image-20230109200829.png)
+![Fallback text 131](/static/assets/pasted-image-20230109200829.png)
 
 
 - Tem agencia que faz o passeio bem cedo, as 5 da manhã, 2 horas de viagem e mais 1 de estrada de chão
@@ -479,15 +479,15 @@ Loki é uma hospedagem daora de lá
 
 - In Lima
 
-![Fallback text 133](/static/assets/pasted-image-20230109202446.png)
+![Fallback text 132](/static/assets/pasted-image-20230109202446.png)
 
-![Fallback text 134](/static/assets/pasted-image-20230109202541.png)
+![Fallback text 133](/static/assets/pasted-image-20230109202541.png)
 
-![Fallback text 135](/static/assets/pasted-image-20230109202553.png)
+![Fallback text 134](/static/assets/pasted-image-20230109202553.png)
 
-![Fallback text 136](/static/assets/pasted-image-20230109202606.png)
+![Fallback text 135](/static/assets/pasted-image-20230109202606.png)
 
-![Fallback text 137](/static/assets/pasted-image-20230109202633.png)
+![Fallback text 136](/static/assets/pasted-image-20230109202633.png)
 
 
 ### Máncora
@@ -500,36 +500,36 @@ Loki é uma hospedagem daora de lá
 - Karaoke night
 - Don't have a laundry (Maybe now they have?)
 
-![Fallback text 138](/static/assets/pasted-image-20230113144312.png)
+![Fallback text 137](/static/assets/pasted-image-20230113144312.png)
 
-![Fallback text 139](/static/assets/pasted-image-20230113144335.png)
+![Fallback text 138](/static/assets/pasted-image-20230113144335.png)
 
-![Fallback text 140](/static/assets/pasted-image-20230113144726.png)
+![Fallback text 139](/static/assets/pasted-image-20230113144726.png)
 
-![Fallback text 141](/static/assets/pasted-image-20230113144812.png)
+![Fallback text 140](/static/assets/pasted-image-20230113144812.png)
 
-![Fallback text 142](/static/assets/pasted-image-20230113150326.png)
+![Fallback text 141](/static/assets/pasted-image-20230113150326.png)
 
-![Fallback text 143](/static/assets/pasted-image-20230113150341.png)
+![Fallback text 142](/static/assets/pasted-image-20230113150341.png)
 
 
 #### Scuba dive (Spondylus Dive Center)
 
-![Fallback text 144](/static/assets/pasted-image-20230113144612.png)
+![Fallback text 143](/static/assets/pasted-image-20230113144612.png)
 
-![Fallback text 145](/static/assets/pasted-image-20230113145244.png)
+![Fallback text 144](/static/assets/pasted-image-20230113145244.png)
 
-![Fallback text 146](/static/assets/pasted-image-20230113145406.png)
+![Fallback text 145](/static/assets/pasted-image-20230113145406.png)
 
-![Fallback text 147](/static/assets/pasted-image-20230113145419.png)
+![Fallback text 146](/static/assets/pasted-image-20230113145419.png)
 
-![Fallback text 148](/static/assets/pasted-image-20230113145433.png)
+![Fallback text 147](/static/assets/pasted-image-20230113145433.png)
 
-![Fallback text 149](/static/assets/pasted-image-20230113145625.png)
+![Fallback text 148](/static/assets/pasted-image-20230113145625.png)
 
-![Fallback text 150](/static/assets/pasted-image-20230113145638.png)
+![Fallback text 149](/static/assets/pasted-image-20230113145638.png)
 
-![Fallback text 151](/static/assets/pasted-image-20230113145702.png)
+![Fallback text 150](/static/assets/pasted-image-20230113145702.png)
 
 
 
@@ -545,98 +545,98 @@ Lima has good food.
 
 #### Doces tipicos
 
-![Fallback text 152](/static/assets/pasted-image-20230109202150.png)
+![Fallback text 151](/static/assets/pasted-image-20230109202150.png)
 
-![Fallback text 153](/static/assets/pasted-image-20230109202212.png)
+![Fallback text 152](/static/assets/pasted-image-20230109202212.png)
 
 
 #### Inca Kola is like bubble gum
 
-![Fallback text 154](/static/assets/pasted-image-20230109191321.png)
+![Fallback text 153](/static/assets/pasted-image-20230109191321.png)
 
 
 #### Alpaca meat is tasty
 
-![Fallback text 155](/static/assets/pasted-image-20230109191234.png)
+![Fallback text 154](/static/assets/pasted-image-20230109191234.png)
 
 
 #### Ceviche is one of the most tipical foods in Peru
 
-![Fallback text 156](/static/assets/pasted-image-20230108190736.png)
+![Fallback text 155](/static/assets/pasted-image-20230108190736.png)
 
-![Fallback text 157](/static/assets/pasted-image-20230108182129.png)
+![Fallback text 156](/static/assets/pasted-image-20230108182129.png)
 
 
 #### Punto Azul classic restaurant that has Ceviche (More accesible)
 
-![Fallback text 158](/static/assets/pasted-image-20230108190718.png)
+![Fallback text 157](/static/assets/pasted-image-20230108190718.png)
 
 
 #### Central is a must go, best in Latin America
 
-![Fallback text 159](/static/assets/pasted-image-20230108190929.png)
+![Fallback text 158](/static/assets/pasted-image-20230108190929.png)
 
 
 #### Sangucheria El Chinito
 
-![Fallback text 160](/static/assets/pasted-image-20230108191020.png)
+![Fallback text 159](/static/assets/pasted-image-20230108191020.png)
 
-![Fallback text 161](/static/assets/pasted-image-20230108190616.png)
+![Fallback text 160](/static/assets/pasted-image-20230108190616.png)
 
 
 #### Puku Puku for coffee break (Amazon coffee)
 
-![Fallback text 162](/static/assets/pasted-image-20230108191216.png)
+![Fallback text 161](/static/assets/pasted-image-20230108191216.png)
 
-![Fallback text 163](/static/assets/pasted-image-20230108191307.png)
+![Fallback text 162](/static/assets/pasted-image-20230108191307.png)
 
-![Fallback text 164](/static/assets/pasted-image-20230108191338.png)
+![Fallback text 163](/static/assets/pasted-image-20230108191338.png)
 
 
 #### Grimanesa Vargas Anticuchos (only cow hearts)
 
-![Fallback text 165](/static/assets/pasted-image-20230108191500.png)
+![Fallback text 164](/static/assets/pasted-image-20230108191500.png)
 
-![Fallback text 166](/static/assets/pasted-image-20230108191515.png)
+![Fallback text 165](/static/assets/pasted-image-20230108191515.png)
 
-![Fallback text 167](/static/assets/pasted-image-20230108191645.png)
+![Fallback text 166](/static/assets/pasted-image-20230108191645.png)
 
 
 #### Matria
 
-![Fallback text 168](/static/assets/pasted-image-20230108191804.png)
+![Fallback text 167](/static/assets/pasted-image-20230108191804.png)
 
-![Fallback text 169](/static/assets/pasted-image-20230108191917.png)
+![Fallback text 168](/static/assets/pasted-image-20230108191917.png)
 
-![Fallback text 170](/static/assets/pasted-image-20230108192006.png)
+![Fallback text 169](/static/assets/pasted-image-20230108192006.png)
 
-![Fallback text 171](/static/assets/pasted-image-20230108192019.png)
+![Fallback text 170](/static/assets/pasted-image-20230108192019.png)
 
-![Fallback text 172](/static/assets/pasted-image-20230108192032.png)
+![Fallback text 171](/static/assets/pasted-image-20230108192032.png)
 
-![Fallback text 173](/static/assets/pasted-image-20230108192045.png)
+![Fallback text 172](/static/assets/pasted-image-20230108192045.png)
 
 
 #### Ayahuasca Resto Bar (For Drinks)
 
-![Fallback text 174](/static/assets/pasted-image-20230108192124.png)
+![Fallback text 173](/static/assets/pasted-image-20230108192124.png)
 
-![Fallback text 175](/static/assets/pasted-image-20230108192239.png)
+![Fallback text 174](/static/assets/pasted-image-20230108192239.png)
 
 
 #### Morena Peruvian Kitchen
 
-![Fallback text 176](/static/assets/pasted-image-20230109205042.png)
+![Fallback text 175](/static/assets/pasted-image-20230109205042.png)
 
-![Fallback text 177](/static/assets/pasted-image-20230109205055.png)
+![Fallback text 176](/static/assets/pasted-image-20230109205055.png)
 
-![Fallback text 178](/static/assets/pasted-image-20230109205106.png)
+![Fallback text 177](/static/assets/pasted-image-20230109205106.png)
 
-![Fallback text 179](/static/assets/pasted-image-20230109205117.png)
+![Fallback text 178](/static/assets/pasted-image-20230109205117.png)
 
-![Fallback text 180](/static/assets/pasted-image-20230109205132.png)
+![Fallback text 179](/static/assets/pasted-image-20230109205132.png)
 
-![Fallback text 181](/static/assets/pasted-image-20230109205148.png)
+![Fallback text 180](/static/assets/pasted-image-20230109205148.png)
 
 
 - Near Plaza de Armas
@@ -645,16 +645,16 @@ Lima has good food.
 
 #### San Pedro/San Blas Market (Cheap food)
 
-![Fallback text 182](/static/assets/pasted-image-20230109205812.png)
+![Fallback text 181](/static/assets/pasted-image-20230109205812.png)
 
 
 #### Del Wawa - Mancora
 
-![Fallback text 183](/static/assets/pasted-image-20230113145815.png)
+![Fallback text 182](/static/assets/pasted-image-20230113145815.png)
 
-![Fallback text 184](/static/assets/pasted-image-20230113145914.png)
+![Fallback text 183](/static/assets/pasted-image-20230113145914.png)
 
-![Fallback text 185](/static/assets/pasted-image-20230113145936.png)
+![Fallback text 184](/static/assets/pasted-image-20230113145936.png)
 
 
 TODO: Add photos from those foods
@@ -669,11 +669,11 @@ TODO: Add photos from those foods
 
 ### Republica del Pisco
 
-![Fallback text 186](/static/assets/pasted-image-20230109205947.png)
+![Fallback text 185](/static/assets/pasted-image-20230109205947.png)
 
-![Fallback text 187](/static/assets/pasted-image-20230109210004.png)
+![Fallback text 186](/static/assets/pasted-image-20230109210004.png)
 
-![Fallback text 188](/static/assets/pasted-image-20230109210025.png)
+![Fallback text 187](/static/assets/pasted-image-20230109210025.png)
 
 
 
@@ -681,22 +681,22 @@ TODO: Add photos from those foods
 
 #### Pisco is a local Licor
 
-![Fallback text 189](/static/assets/pasted-image-20230109191118.png)
+![Fallback text 188](/static/assets/pasted-image-20230109191118.png)
 
 
 #### Chicha (Alcohol drink made from corn, panela, and pineapple)
 
-![Fallback text 190](/static/assets/pasted-image-20230108190657.png)
+![Fallback text 189](/static/assets/pasted-image-20230108190657.png)
 
 
 #### Beer is Pretty tasty
 
-![Fallback text 191](/static/assets/pasted-image-20230109190945.png)
+![Fallback text 190](/static/assets/pasted-image-20230109190945.png)
 
 
 #### Beer made with Coca
 
-![Fallback text 192](/static/assets/pasted-image-20230109201223.png)
+![Fallback text 191](/static/assets/pasted-image-20230109201223.png)
 
 
 ## Transporte
@@ -719,7 +719,7 @@ TODO: Add info
 
 ## Energia
 
-![Fallback text 193](/static/assets/pasted-image-20230108180846.png)
+![Fallback text 192](/static/assets/pasted-image-20230108180846.png)
 
 
 - The power outlets here are 220V
@@ -767,7 +767,7 @@ TODO: Add info
 
 Alguns mercados populares acabam tendo uma [situação higienica precaria](https://youtu.be/1QICUln_y84?t=325), carne principalmente
 
-![Fallback text 194](/static/assets/pasted-image-20230109182534.png)
+![Fallback text 193](/static/assets/pasted-image-20230109182534.png)
 
 
 ## Conclusão
@@ -777,42 +777,77 @@ TODO: Centralize thing by city
 
 ## References
 
-Videos:
+### Videos
+
 [Amazing Places to Visit in Peru](https://www.youtube.com/watch?v=iFm-PBRwwfc)
+
 [10 LUGARES PERFEIROS NO PERU QUE VOCÊ PRECISA CONHECER](https://www.youtube.com/watch?v=TsQ5wmypt_s)
+
 [Bem vindos ao Peru! Dicas mais essenciais e guia de viagem](https://www.youtube.com/watch?v=SL_YBLWdZb8)
+
 [LIMA, PERU | Best FOODIE City in Latin America (w/ Luke Korns & Valeria Basurco)](https://www.youtube.com/watch?v=bGfj2Htlk2g)
+
 [PERU TRAVEL VLOG 2022 | macchu picchu, cusco, lake titicaca & more!)](https://www.youtube.com/watch?v=6SDz6733bYg)
+
 [TOP 10 DESTINOS PERU. GUIA para SEU ROTEIRO](https://www.youtube.com/watch?v=CTZwKli5rCQ)
+
 [A VERDADE SOBRE A VIAGEM PELO PERU |Travel and Share](https://www.youtube.com/watch?v=1QICUln_y84)
+
 [Visit Peru - The Don'ts of Visiting Peru](https://www.youtube.com/watch?v=hkM0I7neIxQ)
+
 [O que fazer em Cusco? Roteiro Peru](https://www.youtube.com/watch?v=MUliQrBD99g)
+
 [MELHORES PONTOS TURÍSTICOS DE LIMA EM 2 DIAS (PERU)](https://www.youtube.com/watch?v=ptdmfgtj5DE)
+
 [How to Spend Your Time in Cusco // Peru Travel Vlog](https://www.youtube.com/watch?v=VmW5dn5weZo)
+
 [10 Best Places to Visit in Peru - Travel Video](https://www.youtube.com/watch?v=Nye_O4PEh7k)
+
 [Let's Go - Peru](https://www.youtube.com/watch?v=A6a9F4bcyjk)
+
 [Beach Life & Scuba in Mancora 🇵🇪 Backpacking Peru Travel Vlog](https://www.youtube.com/watch?v=9FcTC8EGhVw)
+
 [Top Tourist Destinations in Peru (2022) // Peru Travel](https://www.youtube.com/watch?v=UzQqSjit9gY)
+
 [ULTIMATE ITINERARY - 2 weeks in PERU!](https://www.youtube.com/watch?v=QglSqpww2ZQ)
+
 [Is Huacachina, Peru a Tourist Trap or Desert Oasis? // Peru Travel Vlog](https://www.youtube.com/watch?v=1mbEokWvNq4)
+
 [A MONTANHA COLORIDA E O MAL DE ALTITUDE - Terra Viagem](https://www.youtube.com/watch?v=pYhL5bWK2hI)
+
 [Peru! Um país diferente de tudo](https://www.youtube.com/watch?v=VZcPnas0DIY)
+
 [10 COISAS PRA APROVEITAR AO MÁXIMO O PERU - (roteiro e valores na descrição)](https://www.youtube.com/watch?v=qwS3liXDEqY)
+
 [Hiking the Salkantay Trek to Machu Picchu 🇵🇪 Backpacking Peru Travel Vlog](https://www.youtube.com/watch?v=_0GoqiPgVcE)
 
-Channels
+
+### Channels
+
 [Joyous Travel](https://www.youtube.com/@JoyousTravelYT)
+
 [Arruma Essa Mala](https://www.youtube.com/@ArrumaEssaMala)
+
 [vagabrothers](https://www.youtube.com/@vagabrothers)
+
 [Vida de Mochila](https://www.youtube.com/@VidadeMochila)
+
 [Wolters World](https://www.youtube.com/@woltersworld)
+
 [Trip Partiu](https://www.youtube.com/@TripPartiu)
+
 [Nicole and Mico](https://www.youtube.com/@nicoleandmico)
+
 [Beautiful Destinations](https://www.youtube.com/@beautifuldestinations7604)
+
 [Backpacking Bananas](https://www.youtube.com/@BackpackingBananas)
+
 [jetsetterjenna](https://www.youtube.com/@jetsetterjenna)
+
 [Terra Viagem](https://www.youtube.com/@TerraViagemBr)
+
 [Vibe de Dois](https://www.youtube.com/@VibedeDois)
+
 [viajei aqui.](https://www.youtube.com/@viajeiaqui)
 
-##### Tags
+

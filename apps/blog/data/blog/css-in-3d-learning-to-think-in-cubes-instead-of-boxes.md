@@ -7,8 +7,10 @@ summary: Implement it
 description: Implement it
 ---
 
+# CSS in 3D - Learning to Think in Cubes Instead of Boxes
 
 [CSS in 3D - Learning to Think in Cubes Instead of Boxes](https://css-tricks.com/css-in-3d-learning-to-think-in-cubes-instead-of-boxes/)
+
 
 ## Everything’s a cuboid
 
@@ -18,5 +20,6 @@ description: Implement it
 
 It’s a lightweight controller library for JavaScript that super useful for debugging 3D CSS.
 [dat.GUI](https://github.com/dataarts/dat.gui)
+
 
 

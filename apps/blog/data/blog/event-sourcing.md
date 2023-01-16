@@ -6,8 +6,10 @@ draft: false
 summary: Implement it
 description: Implement it
 ---
+
 # Event Sourcing
 
 
 [Event Sourcing](https://arkwright.github.io/event-sourcing.html)
+
 

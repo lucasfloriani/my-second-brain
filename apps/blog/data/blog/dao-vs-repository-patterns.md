@@ -7,8 +7,10 @@ summary: Implement it
 description: Implement it
 ---
 
+# DAO vs Repository Patterns
 
 [DAO vs Repository Patterns](https://www.baeldung.com/java-dao-vs-repository)
+
 
 ## DAO Pattern (Data Access Object)
 

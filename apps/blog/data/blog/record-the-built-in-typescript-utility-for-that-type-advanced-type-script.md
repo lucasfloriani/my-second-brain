@@ -6,10 +6,12 @@ draft: true
 summary: Implement it
 description: Implement it
 ---
+
+# Record The built-in Typescript Utility for “that” type (Advanced TypeScript)
+
 # Record: The built-in Typescript Utility for “that” type (Advanced TypeScript)
-
-
 [Record: The built-in Typescript Utility for “that” type (Advanced TypeScript)](https://www.youtube.com/watch?v=-yvPxBaCLM0&ab_channel=BasaratCodes)
+
 
 ### Difference between record and mapped type
 

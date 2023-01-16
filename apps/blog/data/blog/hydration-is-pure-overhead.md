@@ -6,10 +6,12 @@ draft: true
 summary: Implement it
 description: Implement it
 ---
+
 # Hydration is Pure Overhead
 
 
 [Hydration is Pure Overhead](https://www.builder.io/blog/hydration-is-pure-overhead)
+
 
 Hydration is a solution to add interactivity to server-rendered HTML.
 

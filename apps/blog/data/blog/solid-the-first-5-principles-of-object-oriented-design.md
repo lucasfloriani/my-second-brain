@@ -7,8 +7,10 @@ summary: Implement it
 description: Implement it
 ---
 
+# SOLID - The First 5 Principles of Object Oriented Design
 
 [SOLID - The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+
 
 _SOLID_ is an acronym for the first five object-oriented design (OOD) principles by Robert C. Martin (also known as [Uncle Bob](http://en.wikipedia.org/wiki/Robert_Cecil_Martin)).
 

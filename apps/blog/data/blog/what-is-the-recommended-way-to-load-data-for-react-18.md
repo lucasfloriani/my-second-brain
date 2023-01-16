@@ -7,8 +7,10 @@ summary: Implement it
 description: Implement it
 ---
 
+# What is the recommended way to load data for React 18
 
 [What is the recommended way to load data for React 18?](https://www.reddit.com/r/reactjs/comments/vi6q6f/what_is_the_recommended_way_to_load_data_for)
+
 
 ## Why is bad to make API calls inside useEffect
 

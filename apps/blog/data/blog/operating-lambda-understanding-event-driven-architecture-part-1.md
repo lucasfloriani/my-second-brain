@@ -6,10 +6,12 @@ draft: true
 summary: Implement it
 description: Implement it
 ---
+
 # Operating Lambda Understanding event-driven architecture – Part 1
 
 
 [Operating Lambda Understanding event-driven architecture – Part 1](https://aws.amazon.com/blogs/compute/operating-lambda-understanding-event-driven-architecture-part-1/)
+
 
 ### Vantagens
 

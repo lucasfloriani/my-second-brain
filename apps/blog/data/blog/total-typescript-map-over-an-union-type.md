@@ -6,10 +6,12 @@ draft: true
 summary: Implement it
 description: Implement it
 ---
+
 # TotalTypescript - Map over an union type
 
 
 [TotalTypescript - Map over an union type](https://www.totaltypescript.com/tips/map-over-a-union-type)
+
 
 ### Distributivity
 Its the way Typescript iterate union types automatically

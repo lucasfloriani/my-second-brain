@@ -6,6 +6,7 @@ draft: false
 summary: Implement it
 description: Implement it
 ---
+
 # Livro - Sobre a Brevidade da Vida
 
 

@@ -7,8 +7,10 @@ summary: Implement it
 description: Implement it
 ---
 
+# AWS SNS and SQS
 
 [AWS SNS and SQS](https://sunamjohn.medium.com/aws-sns-and-sqs-8c4138d0577)
+
 
 
 ## Amazon Simple Notification Service (SNS)

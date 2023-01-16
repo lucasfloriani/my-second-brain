@@ -6,8 +6,10 @@ draft: false
 summary: Implement it
 description: Implement it
 ---
+
 # Enablement vs Ownership
 
 
 [Enablement vs Ownership](https://www.swyx.io/enablement-vs-ownership/)
+
 

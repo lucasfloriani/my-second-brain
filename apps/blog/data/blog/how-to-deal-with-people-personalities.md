@@ -6,8 +6,10 @@ draft: false
 summary: Implement it
 description: Implement it
 ---
+
 # How to deal with people personalities
 
 
 [How to deal with people personalities](https://www.howtodeal.dev/)
+
 

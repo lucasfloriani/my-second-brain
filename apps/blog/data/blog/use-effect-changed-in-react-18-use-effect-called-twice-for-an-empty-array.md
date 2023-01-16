@@ -6,10 +6,12 @@ draft: true
 summary: Implement it
 description: Implement it
 ---
+
 # useEffect changed in React 18 - useEffect called twice for an empty array
 
 
 [useEffect changed in React 18 - useEffect called twice for an empty array](https://www.youtube.com/watch?v=J3Mcbne1Iq4&ab_channel=BasaratCodes)
+
 
 In the version 18 of React the strict mode in development will change the steps a component is rendered:
 

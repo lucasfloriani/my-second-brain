@@ -7,9 +7,12 @@ summary: Implement it
 description: Implement it
 ---
 
+# Amazon SQS temporary queues
 
 [Amazon SQS temporary queues](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-temporary-queues.html)
+
 [Temporary Queue Client Now Available for Amazon SQS](https://aws.amazon.com/about-aws/whats-new/2019/07/temporary-queue-client-now-available-for-amazon-sqs/)
+
 
 Temporary queues help you save development time and deployment costs when using common message patterns such as _request-response_. You can use the [Temporary Queue Client](https://github.com/awslabs/amazon-sqs-java-temporary-queues-client) to create high-throughput, cost-effective, application-managed temporary queues.
 

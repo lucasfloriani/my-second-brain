@@ -6,10 +6,12 @@ draft: true
 summary: Implement it
 description: Implement it
 ---
+
 # What are TypeScript MAPPED Types and how to use them Effectively
 
 
 [What are TypeScript MAPPED Types and how to use them Effectively](https://www.youtube.com/watch?v=fn12l_8LfxI&ab_channel=BasaratCodes)
+
 
 `Readonly` utility type can make all properties of a type readonly.
 

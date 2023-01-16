@@ -7,8 +7,10 @@ summary: Implement it
 description: Implement it
 ---
 
+# AWS - Difference between SQS and SNS
 
 [AWS - Difference between SQS and SNS](https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5)
+
 
 **SNS** is a distributed **publish-subscribe** service.
 **SQS** is distributed **queuing** service.

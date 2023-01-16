@@ -6,8 +6,10 @@ draft: false
 summary: Implement it
 description: Implement it
 ---
+
 # Refactoring - Design Patterns
 
 
 [Refactoring - Design Patterns](https://refactoring.guru/pt-br/design-patterns)
+
 

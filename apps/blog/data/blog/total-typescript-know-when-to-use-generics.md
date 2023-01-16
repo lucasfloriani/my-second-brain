@@ -6,10 +6,12 @@ draft: true
 summary: Implement it
 description: Implement it
 ---
+
 # TotalTypescript - Know when to use generics
 
 
 [TotalTypescript - Know when to use generics](https://www.totaltypescript.com/tips/know-when-to-use-generics)
+
 
 Generics are good when you have cases where depending on the input you provide, the return will be different too
 

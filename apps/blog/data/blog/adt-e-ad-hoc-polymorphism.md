@@ -6,6 +6,7 @@ draft: false
 summary: Implement it
 description: Implement it
 ---
+
 # ADT, Ad Hoc Polymorphism e TypeClass
 
 

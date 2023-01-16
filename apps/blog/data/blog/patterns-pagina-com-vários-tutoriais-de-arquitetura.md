@@ -6,6 +6,7 @@ draft: false
 summary: Implement it
 description: Implement it
 ---
+
 # Patterns - Pagina com vários tutoriais de arquitetura
 
 

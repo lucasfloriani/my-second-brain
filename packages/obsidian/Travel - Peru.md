@@ -573,7 +573,8 @@ TODO: Centralize thing by city
 
 ## References
 
-Videos:
+### Videos
+
 [Amazing Places to Visit in Peru](https://www.youtube.com/watch?v=iFm-PBRwwfc)
 [10 LUGARES PERFEIROS NO PERU QUE VOCÊ PRECISA CONHECER](https://www.youtube.com/watch?v=TsQ5wmypt_s)
 [Bem vindos ao Peru! Dicas mais essenciais e guia de viagem](https://www.youtube.com/watch?v=SL_YBLWdZb8)
@@ -596,7 +597,8 @@ Videos:
 [10 COISAS PRA APROVEITAR AO MÁXIMO O PERU - (roteiro e valores na descrição)](https://www.youtube.com/watch?v=qwS3liXDEqY)
 [Hiking the Salkantay Trek to Machu Picchu 🇵🇪 Backpacking Peru Travel Vlog](https://www.youtube.com/watch?v=_0GoqiPgVcE)
 
-Channels
+### Channels
+
 [Joyous Travel](https://www.youtube.com/@JoyousTravelYT)
 [Arruma Essa Mala](https://www.youtube.com/@ArrumaEssaMala)
 [vagabrothers](https://www.youtube.com/@vagabrothers)

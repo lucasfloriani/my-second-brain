@@ -6,10 +6,12 @@ draft: true
 summary: Implement it
 description: Implement it
 ---
+
 # TotalTypescript - Derive a union type from an object
 
 
 [TotalTypescript - Derive a union type from an object](https://www.totaltypescript.com/tips/derive-a-union-type-from-an-object)
+
 
 The logic is to use the declared object (`fruitCounts`) to create an union type so we can use the declared object as the source of truth.
 

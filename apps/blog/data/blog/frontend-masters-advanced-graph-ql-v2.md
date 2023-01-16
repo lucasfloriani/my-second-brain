@@ -7,9 +7,12 @@ summary: Implement it
 description: Implement it
 ---
 
+# FrontendMasters - Advanced GraphQL v2
 
 [Advanced GraphQL v2](https://frontendmasters.com/courses/advanced-graphql-v2)
+
 [Repo of the course](https://github.com/FrontendMasters/advanced-gql-v2)
+
 
 ## Authentication
 

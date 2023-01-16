@@ -6,10 +6,12 @@ draft: true
 summary: Implement it
 description: Implement it
 ---
+
 # The two kinds of Generics for Functions - Advanced TypeScript Tutorial
 
 
 [The two kinds of Generics for Functions - Advanced TypeScript Tutorial](https://www.youtube.com/watch?v=0IFf1GlpLv4&ab_channel=BasaratCodes)
+
 
 
 ![Fallback text 1](/static/assets/pasted-image-20221008103336.png)

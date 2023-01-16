@@ -6,10 +6,12 @@ draft: true
 summary: Implement it
 description: Implement it
 ---
+
 # TotalTypescript - Use assertion functions inside classes
 
 
 [TotalTypescript - Use assertion functions inside classes](https://www.totaltypescript.com/tips/use-assertion-functions-inside-classes)
+
 
 Assert functions are a useful way that Typescript provide us to affirm that some values exists when the Typescript runtime doesn't catch it automatically.
 

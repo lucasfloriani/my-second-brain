@@ -7,15 +7,24 @@ summary: Implement it
 description: Implement it
 ---
 
+# Clean architecture and Domain Driven Design - Input Validation
 
 [Clean architecture - where to put input validation logic](https://stackoverflow.com/questions/57603422/clean-architecture-where-to-put-input-validation-logic)
+
 [The Clean Architecture: Where should we put validation logics in the code](https://ikenox.info/blog/where-to-put-validation-in-clean-architecture)
+
 [Clean architecture validation in domain vs data persistence layer?](https://softwareengineering.stackexchange.com/questions/351419/clean-architecture-validation-in-domain-vs-data-persistence-layer)
+
 [Should domain layer have validation logic?](https://softwareengineering.stackexchange.com/questions/436453/should-domain-layer-have-validation-logic)
+
 [DDD with web api, validation in domain or application layer?](https://softwareengineering.stackexchange.com/questions/396334/ddd-with-web-api-validation-in-domain-or-application-layer)
+
 [Validation in Domain Driven Design](https://stackoverflow.com/questions/52883013/validation-in-domain-driven-design)
+
 [Two-step validation](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-model-layer-validations#two-step-validation)
+
 [The fallacy of the always-valid entity](https://jeffreypalermo.com/2009/05/the-fallacy-of-the-always-valid-entity)
+
 
 ![Fallback text 1](/static/assets/pasted-image-20230101191301.png)
 

@@ -6,10 +6,12 @@ draft: true
 summary: Implement it
 description: Implement it
 ---
+
 # What are Enums in TypeScript, and When Should you use Them
 
 
 [What are Enums in TypeScript, and When Should you use Them](https://www.typescriptcourse.com/enums-in-typescript-and-when-should-you-use-them#when-should-you-use-them)
+
 
 
 ### Rewriting enum value

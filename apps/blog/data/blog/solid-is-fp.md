@@ -7,8 +7,10 @@ summary: Implement it
 description: Implement it
 ---
 
+# SOLID is FP!
 
 [SOLID is FP!](https://gist.github.com/anabastos/d32741ed49305169a73ee85792ebdc03)
+
 
 ## S - Single Responsability Principle
 

@@ -6,10 +6,12 @@ draft: true
 summary: Implement it
 description: Implement it
 ---
+
 # Managing backend requests and frontend notifications in serverless web apps
 
 
 [Managing backend requests and frontend notifications in serverless web apps](https://aws.amazon.com/blogs/compute/managing-backend-requests-and-frontend-notifications-in-serverless-web-apps/)
+
 
 ### The synchronous model
 

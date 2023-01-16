@@ -6,10 +6,12 @@ draft: true
 summary: Implement it
 description: Implement it
 ---
+
 # TotalTypescript - Use generics to dynamically specify the number, and type, of arguments to functions
 
 
 [TotalTypescript - Use generics to dynamically specify the number, and type, of arguments to functions](https://www.totaltypescript.com/tips/use-generics-to-dynamically-specify-the-number-and-type-of-arguments-to-functions)
+
 
 
 ![Fallback text 1](/static/assets/pasted-image-20221012181429.png)

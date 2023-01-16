@@ -1,6 +1,6 @@
 import { copyFile, writeFile } from "fs";
 import dashify from "dashify";
-import { getFileContent, getFilesInFolder } from "./helpers";
+import { getParsedFileContent, getFilesInFolder } from "./helpers";
 
 const main = () => {
   const markdownDir = __dirname + "/../../obsidian";
@@ -8,7 +8,7 @@ const main = () => {
 
   fileNames.forEach((fileName) => {
     const path = `${markdownDir}/${fileName}`;
-    const content = getFileContent(path);
+    const content = getParsedFileContent(path);
     const dashfileName = dashify(fileName.slice(0, -3), { condense: true });
     const newPath =
       __dirname + "/../../../apps/blog/data/blog/" + dashfileName + ".md";

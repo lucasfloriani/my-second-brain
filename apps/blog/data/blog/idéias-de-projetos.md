@@ -6,6 +6,7 @@ draft: false
 summary: Implement it
 description: Implement it
 ---
+
 # Idéias
 
 
@@ -30,5 +31,3 @@ description: Implement it
 - Painel do usuário
 
 
-##### Tags
-#projectIdeas, #ecommerce, #nft, #arduino
