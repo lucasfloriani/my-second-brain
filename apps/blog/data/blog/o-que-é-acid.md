@@ -1,5 +1,5 @@
 ---
-title: O que é ACID?
+title: O que é ACID
 date: '2023-01-15'
 tags: ['article', 'backend', 'database', 'ACID', 'architecture', 'read', 'withResume']
 draft: false
@@ -7,7 +7,7 @@ summary: ...
 description: ...
 ---
 
-# O que é ACID?
+# O que é ACID
 
 [O que é ACID?](https://medium.com/opensanca/o-que-%C3%A9-acid-59b11a81e2c6)
 

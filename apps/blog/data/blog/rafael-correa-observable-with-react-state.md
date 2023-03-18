@@ -11,7 +11,7 @@ description: ...
 
 [Rafael Correa - Observable with React State](https://twitter.com/darklight9811/status/1583511244266344448)
 
-Let's analyse the code by it's structure, it will be easier  by separating those functions
+Let's analyse the code by it's structure, it will be easier by separating those functions
 
 ## Store.ts - Abstraction of observer logic
 

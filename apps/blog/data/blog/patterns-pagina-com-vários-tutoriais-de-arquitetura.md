@@ -9,4 +9,4 @@ description: ...
 
 # Patterns - Pagina com vários tutoriais de arquitetura
 
- [Patterns - Pagina com vários tutoriais de arquitetura](https://www.patterns.dev/posts)
+[Patterns - Pagina com vários tutoriais de arquitetura](https://www.patterns.dev/posts)

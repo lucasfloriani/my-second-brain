@@ -1,5 +1,5 @@
 ---
-title: Record The built-in Typescript Utility for “that” type (Advanced TypeScript)
+title: Record - The built-in Typescript Utility for “that” type (Advanced TypeScript)
 date: '2023-01-15'
 tags: ['video', 'fullStack', 'typescript', 'utilityTypes', 'read', 'withResume']
 draft: false
@@ -7,9 +7,8 @@ summary: ...
 description: ...
 ---
 
-# Record The built-in Typescript Utility for “that” type (Advanced TypeScript)
+# Record - The built-in Typescript Utility for “that” type (Advanced TypeScript)
 
-# Record: The built-in Typescript Utility for “that” type (Advanced TypeScript)
 [Record: The built-in Typescript Utility for “that” type (Advanced TypeScript)](https://www.youtube.com/watch?v=-yvPxBaCLM0&ab_channel=BasaratCodes)
 
 ### Difference between record and mapped type
