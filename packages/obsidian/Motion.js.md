@@ -173,4 +173,4 @@ The main limitation of WAAPI is it can only animate CSS styles. So to animate HT
 - [X] Put tag `read` and `withResume`
 
 ##### Tags
-#library, #frontend, #motion, #library, #animations
+#library, #frontend, #motion, #library, #animations, #read, #withResume 

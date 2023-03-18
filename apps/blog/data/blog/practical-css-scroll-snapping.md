@@ -1,13 +1,13 @@
 ---
-title: Pratical CSS Scroll Snapping
+title: Practical CSS Scroll Snapping
 date: '2023-03-18'
-tags: ['article', 'frontend', 'animations', 'css', 'scrollSnap']
-draft: true
+tags: ['article', 'frontend', 'animations', 'css', 'scrollSnap', 'read', 'withResume']
+draft: false
 summary: CSS scroll snapping allows you to lock the viewport to certain elements or locations after a user has finished scrolling.. When the container element is scrolled, it will snap to the child elements yo...
 description: CSS scroll snapping allows you to lock the viewport to certain elements or locations after a user has finished scrolling.. When the container element is scrolled, it will snap to the child elements yo...
 ---
 
-# Pratical CSS Scroll Snapping
+# Practical CSS Scroll Snapping
 
 [Pratical CSS Scroll Snapping](https://css-tricks.com/practical-css-scroll-snapping)
 

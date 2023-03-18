@@ -1,8 +1,8 @@
 ---
 title: Motion.js
 date: '2023-03-18'
-tags: ['library', 'frontend', 'motion', 'library', 'animations']
-draft: true
+tags: ['library', 'frontend', 'motion', 'library', 'animations', 'read', 'withResume']
+draft: false
 summary: timeline is used to create complex sequences of animations across multiple elements.. flubber library is responsible for mashing the d attribute of the SVG path tag, they will create the adjustments b...
 description: timeline is used to create complex sequences of animations across multiple elements.. flubber library is responsible for mashing the d attribute of the SVG path tag, they will create the adjustments b...
 ---

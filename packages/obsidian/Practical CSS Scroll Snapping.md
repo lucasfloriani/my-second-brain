@@ -57,4 +57,4 @@ At the time of this writing, no browser supports `scroll-snap-stop` natively, 
 - [x] Put tag `read` and `withResume`
 
 ##### Tags
-#article, #frontend, #animations, #css, #scrollSnap
+#article, #frontend, #animations, #css, #scrollSnap, #read, #withResume
