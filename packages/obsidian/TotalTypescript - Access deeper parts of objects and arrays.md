@@ -1,4 +1,3 @@
-# TotalTypescript - Access deeper parts of objects and arrays
 [TotalTypescript - Access deeper parts of objects and arrays](https://www.totaltypescript.com/tips/access-deeper-parts-of-objects-and-arrays)
 
 

@@ -1,4 +1,4 @@
-# CQRS
+
 
 #### Tasks
 - [ ] Read

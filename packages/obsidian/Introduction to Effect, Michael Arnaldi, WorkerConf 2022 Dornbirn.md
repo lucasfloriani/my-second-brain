@@ -1,6 +1,5 @@
 [Introduction to Effect, Michael Arnaldi, WorkerConf 2022 Dornbirn](https://www.youtube.com/watch?v=zrNr3JVUc8I)
 
-
 ### Concurrency
 
 We can have multiple ways to handle concurrency:

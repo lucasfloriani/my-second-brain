@@ -1,4 +1,4 @@
-# Livro - Esencialismo
+
 
 #### Tasks
 - [ ] Read

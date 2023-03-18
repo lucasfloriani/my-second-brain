@@ -1,4 +1,3 @@
-# Kubernetes Versus Serverless
 [Kubernetes Versus Serverless](https://andrebassi.com.br/article-kubernetes-versus-serverless)
 
 #### Tasks

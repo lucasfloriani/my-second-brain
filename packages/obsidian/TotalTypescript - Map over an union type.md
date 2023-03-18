@@ -1,4 +1,3 @@
-# TotalTypescript - Map over an union type
 [TotalTypescript - Map over an union type](https://www.totaltypescript.com/tips/map-over-a-union-type)
 
 ### Distributivity

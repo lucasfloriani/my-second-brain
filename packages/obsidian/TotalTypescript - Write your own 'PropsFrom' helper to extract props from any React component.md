@@ -1,4 +1,3 @@
-# TotalTypescript - Write your own 'PropsFrom' helper to extract props from any React component
 [TotalTypescript - Write your own 'PropsFrom' helper to extract props from any React component](https://www.totaltypescript.com/tips/write-your-own-propsfrom-helper-to-extract-props-from-any-react-component)
 
 ![[Pasted image 20221011205001.png]]

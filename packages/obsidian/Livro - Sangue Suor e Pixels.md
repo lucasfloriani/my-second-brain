@@ -1,4 +1,4 @@
-# Livro - Sangue Suor e Pixels
+
 
 #### Tasks
 - [ ] Read

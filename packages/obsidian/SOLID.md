@@ -1,4 +1,4 @@
-# SOLID
+
 
 #### Tasks
 - [ ] Read

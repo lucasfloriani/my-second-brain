@@ -1,4 +1,3 @@
-# Having fun with React Rerenders
 [Having fun with React Rerenders](https://medium.com/swlh/having-fun-with-reacts-renderer-be15b39c4556)
 
 #### Tasks

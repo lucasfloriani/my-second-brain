@@ -1,4 +1,3 @@
-# Qwik
 [Página oficial](https://qwik.builder.io/)
 
 ![[Pasted image 20221006183236.png]]

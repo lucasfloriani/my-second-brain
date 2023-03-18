@@ -1,4 +1,3 @@
-# Zod
 [Zod](https://github.com/colinhacks/zod)
 
 Its a library that is almost like a fusion between types we create and a validation library like Yup, the difference is that it will validates the moment you put a value inside the variable instead of later when you invoke the validation.

@@ -1,4 +1,3 @@
-# TotalTypescript - Use 'in' operator to transform a union to another union
 [TotalTypescript - Use 'in' operator to transform a union to another union](https://www.totaltypescript.com/tips/use-in-operator-to-transform-a-union-to-another-union)
 
 Same technic from [[TotalTypescript - Derive a union type from an object]]

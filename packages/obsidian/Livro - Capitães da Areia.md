@@ -1,4 +1,3 @@
-# Livro - Capitães da Areia
 
 #### Tasks
 - [ ] Read

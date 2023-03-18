@@ -1,4 +1,3 @@
-# Intermock
 [Intermock](https://github.com/google/intermock)
 
 A library created by Google to generate mock that uses the types you create in the project

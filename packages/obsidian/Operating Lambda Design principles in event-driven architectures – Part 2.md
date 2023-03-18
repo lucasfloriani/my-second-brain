@@ -1,6 +1,4 @@
-# Operating Lambda Design principles in event-driven architectures – Part 2
 [Operating Lambda Design principles in event-driven architectures – Part 2](https://aws.amazon.com/blogs/compute/operating-lambda-design-principles-in-event-driven-architectures-part-2/)
-
 
 Part 1:
 [[Operating Lambda Understanding event-driven architecture – Part 1]]

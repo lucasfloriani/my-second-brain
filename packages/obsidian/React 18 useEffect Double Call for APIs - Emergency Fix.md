@@ -1,4 +1,3 @@
-# React 18 useEffect Double Call for APIs - Emergency Fix
 [React 18 useEffect Double Call for APIs - Emergency Fix](https://javascript.plainenglish.io/react-18-useeffect-double-call-for-apis-emergency-fix-724b7ee6a646)
 
 ### Use an Abort Controller

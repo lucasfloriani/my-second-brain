@@ -1,4 +1,3 @@
-# TotalTypescript - Use generics to dynamically specify the number, and type, of arguments to functions
 [TotalTypescript - Use generics to dynamically specify the number, and type, of arguments to functions](https://www.totaltypescript.com/tips/use-generics-to-dynamically-specify-the-number-and-type-of-arguments-to-functions)
 
 

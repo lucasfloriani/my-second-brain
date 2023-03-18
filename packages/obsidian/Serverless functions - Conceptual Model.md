@@ -1,4 +1,3 @@
-# Serverless functions - Conceptual Model
 [Serverless functions - Conceptual Model](https://vercel.com/docs/serverless-functions/conceptual-model)
 
 #### Tasks

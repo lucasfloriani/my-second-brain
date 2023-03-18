@@ -1,4 +1,3 @@
-# AWS
 
 #### Tasks
 - [ ] Focus in the services (Lambda, S3, etc)

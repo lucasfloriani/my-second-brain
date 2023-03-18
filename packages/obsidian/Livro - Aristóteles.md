@@ -1,4 +1,3 @@
-# Livro - Aristóteles
 
 #### Tasks
 - [ ] Read

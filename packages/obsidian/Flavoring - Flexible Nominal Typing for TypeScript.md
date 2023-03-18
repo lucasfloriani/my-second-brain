@@ -1,6 +1,4 @@
-# Flavoring - Flexible Nominal Typing for TypeScript
 [Flavoring - Flexible Nominal Typing for TypeScript](https://spin.atomicobject.com/2018/01/15/typescript-flexible-nominal-typing)
-
 
 **Branding** is the usual approach of Opaque Types where we add an extra property like type to make numbers different from each other (PersonId !== ProductId)
 

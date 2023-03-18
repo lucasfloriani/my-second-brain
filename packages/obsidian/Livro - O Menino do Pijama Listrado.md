@@ -1,4 +1,4 @@
-# Livro - O Menino do Pijama Listrado
+
 
 #### Tasks
 - [ ] Read

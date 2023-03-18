@@ -1,4 +1,3 @@
-# Elastic Search
 
 #### Tasks
 - [ ] Read

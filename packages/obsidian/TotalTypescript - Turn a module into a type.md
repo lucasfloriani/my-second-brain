@@ -1,4 +1,3 @@
-# TotalTypescript - Turn a module into a type
 [TotalTypescript - Turn a module into a type](https://www.totaltypescript.com/tips/turn-a-module-into-a-type)
 
 

@@ -1,6 +1,5 @@
 [AWS SNS and SQS](https://sunamjohn.medium.com/aws-sns-and-sqs-8c4138d0577)
 
-
 ## Amazon Simple Notification Service (SNS)
 
 Is a fully managed messaging service for both application-toapplication (A2A) and application-to-person (A2P) communication.

@@ -1,4 +1,3 @@
-# TotalTypescript - Use function overloads and generics to type a compose function
 [TotalTypescript - Use function overloads and generics to type a compose function](https://www.totaltypescript.com/tips/use-function-overloads-and-generics-to-type-a-compose-function)
 
 

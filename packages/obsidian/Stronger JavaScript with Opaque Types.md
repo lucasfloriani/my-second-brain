@@ -1,4 +1,3 @@
-# Stronger JavaScript with Opaque Types
 [Stronger JavaScript with Opaque Types](https://codemix.com/opaque-types-in-javascript)
 
 ### What is Opaque Types?

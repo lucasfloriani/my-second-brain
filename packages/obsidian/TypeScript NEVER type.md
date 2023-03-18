@@ -1,4 +1,3 @@
-# TypeScript NEVER type
 [TypeScript NEVER type](https://www.youtube.com/watch?v=aldIFYWu6xc&ab_channel=BasaratCodes)
 
 Is a type that Typescript uses when I function never returns a value.

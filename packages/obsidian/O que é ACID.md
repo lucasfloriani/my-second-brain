@@ -1,4 +1,3 @@
-# O que é ACID?
 [O que é ACID?](https://medium.com/opensanca/o-que-%C3%A9-acid-59b11a81e2c6)
 
 **ACID** é um conceito que se refere às quatro propriedades de transação de um sistema de banco de dados: **A**tomicidade, **C**onsistência, **I**solamento e **D**urabilidade.

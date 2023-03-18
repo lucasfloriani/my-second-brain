@@ -1,4 +1,3 @@
-# TotalTypescript - Throw detailed error messages for type checks
 [TotalTypescript - Throw detailed error messages for type checks](https://www.totaltypescript.com/tips/throw-detailed-error-messages-for-type-checks)
 
 Using this strategy we can have validation at the type level:

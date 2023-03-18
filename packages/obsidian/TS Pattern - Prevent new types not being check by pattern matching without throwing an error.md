@@ -1,4 +1,3 @@
-# TS Pattern - Prevent new types not being check by pattern matching without throwing an error
 
 
 ![[Pasted image 20221014202840.png]]

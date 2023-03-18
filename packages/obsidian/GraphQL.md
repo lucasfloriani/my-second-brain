@@ -1,4 +1,4 @@
-# GraphQL
+
 
 #### Tasks
 - [ ] Focus on Advanced Concepts from GraphQL (Relay, render as you fetch, architecture of fragments)

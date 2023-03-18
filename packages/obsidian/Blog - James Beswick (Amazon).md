@@ -1,4 +1,3 @@
-# James Beswick Blog
 [James Beswick Blog](https://aws.amazon.com/blogs/compute/author/jbeswick/)
 
 #### Tasks

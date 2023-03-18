@@ -1,4 +1,3 @@
-# TotalTypescript - Use generics in React to make dynamic and flexible components
 [TotalTypescript - Use generics in React to make dynamic and flexible components](https://www.totaltypescript.com/tips/use-generics-in-react-to-make-dynamic-and-flexible-components)
 
 

@@ -1,4 +1,3 @@
-# Livro - Coraline
 
 #### Tasks
 - [ ] Read

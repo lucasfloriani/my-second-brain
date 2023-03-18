@@ -1,4 +1,4 @@
-# Domain Driven Design
+
 
 #### Tasks
 - [ ] Read

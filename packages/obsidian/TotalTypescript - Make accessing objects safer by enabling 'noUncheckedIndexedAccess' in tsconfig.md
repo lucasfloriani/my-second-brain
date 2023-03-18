@@ -1,4 +1,3 @@
-# TotalTypescript - Make accessing objects safer by enabling 'noUncheckedIndexedAccess' in tsconfig
 [TotalTypescript - Make accessing objects safer by enabling 'noUncheckedIndexedAccess' in tsconfig](https://www.totaltypescript.com/tips/make-accessing-objects-safer-by-enabling-nouncheckedindexedaccess-in-tsconfig)
 
 `noUncheckedIndexedAccess` option from tsconfig will make you access object properties in a safer way.
