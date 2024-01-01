@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "02d9c0e81e1aeb5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4096fde64b36b4fa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TotalTypescript - Use infer in combination with string literals to manipulate keys of objects.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "736af0fefb82e434",
+    "type": "split",
+    "children": [
+      {
+        "id": "a20ab7c51b86e685",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4431b67867f61d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "da1707695bd2476a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#module",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 562
+  },
+  "right": {
+    "id": "dcc243765ef5a7d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "53af24b5d27b1ca7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1133c8758be2d323",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TotalTypescript - Use infer in combination with string literals to manipulate keys of objects.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4096fde64b36b4fa",
+  "lastOpenFiles": [
+    "TotalTypescript - Access deeper parts of objects and arrays.md",
+    "TotalTypescript - Turn a module into a type.md",
+    "TotalTypescript - Get a TypeScript package ready for release to NPM in under 2 minutes.md",
+    "TotalTypescript - Use assertion functions inside classes.md",
+    "TotalTypescript - Assign local variables to default generic slots to dry up your code and improve performance.md",
+    "TotalTypescript - Know when to use generics.md",
+    "TotalTypescript - Map over an union type.md",
+    "TotalTypescript - Make accessing objects safer by enabling 'noUncheckedIndexedAccess' in tsconfig.md",
+    "TotalTypescript - Use generics to dynamically specify the number, and type, of arguments to functions.md",
+    "TotalTypescript - Use 'declare global' to allow types to cross module boundaries.md"
+  ]
+}
