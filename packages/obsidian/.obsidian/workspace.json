@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 562
+    "width": 338.5
   },
   "right": {
     "id": "dcc243765ef5a7d6",
@@ -105,16 +105,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
   "active": "17f1bb8c3e82db08",
   "lastOpenFiles": [
+    "Pasted image 20240112221624.png",
+    "Pasted image 20240112221335.png",
     "Pasted image 20231228201034.png",
     "Pasted image 20231228200038.png",
     "Pasted image 20231228195927.png",
@@ -124,8 +126,6 @@
     "Pasted image 20231228145445.png",
     "Pasted image 20231228121304.png",
     "Pasted image 20231227221954.png",
-    "Pasted image 20231227221906.png",
-    "Pasted image 20231227220836.png",
     "DAO vs Repository Patterns.md",
     "Estudo sobre Cashback e Milhas.md",
     "Remeda.js.md",

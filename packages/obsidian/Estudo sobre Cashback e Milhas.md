@@ -12,6 +12,10 @@
 [Rumo aos 100 mil - Como alcancei 100 mil reais em 1 ano e 11 meses](https://www.youtube.com/watch?v=bVo84snVhKU)
 [Os seis maiores cartões do Brasil, os melhores para você ter em sua carteira e ganhar muitas milhas](https://www.youtube.com/watch?v=GPTIspoLoOQ)
 [Top 10 melhores cartões de crédito sem anuidade do Brasil. (Pontos e Cashback)](https://www.youtube.com/watch?v=7cW8EeXroFg)
+[A verdade sobre Barsi e os fundos imobiliários](https://www.youtube.com/watch?v=js4aDZVpyHU)
+[Como posso multiplicar meu dinheiro em investimentos?](https://www.youtube.com/watch?v=9HNN4as8CIM)
+[Terreno valorizou 2x em 10 anos, foi um bom investimento?](https://www.youtube.com/watch?v=2xjXADSku_A)
+[Testei R$ 100, R$ 1.000 e R$ 10.000 reais no Nubank - Quanto rendeu?](https://www.youtube.com/watch?v=3ZobThNwmVg)
 
 ***Crédito*** é uma entrada de dinheiro, ou seja, mais dinheiro na sua conta
 ***Débito*** é uma saída de dinheiro, ou seja, um pagamento de boleto efetuado com o dinheiro da conta por exemplo.
@@ -19,6 +23,7 @@
 ***Taxa Selic*** é a _taxa_ básica de juros da economia. Quem define é o Banco Central.
 
 Sempre analise a corretora ou banco se eles cobram taxa para realizar os investimentos
+
 ## Tipos de investimento
 
 #### CDB
@@ -141,6 +146,65 @@ PS: Tem que achar um CDB que valha mais que 100% do CDI pra valer a pena
 
 // TODO: Check this info here
 Falaram que investir em corretoras independentes é melhor pq não vão cobrar as taxas que o Banco cobra.
+
+### Fundos Imobiliários (FII)
+
+Luiz Barsi tem mais de 4 bilhões investidos em ações, é a pessoa física com mais investimentos, comentou que não gosta e nem investe em fundos imobiliarios.
+
+Primeiro ponto: "A Liquidez dos fundos imobiliários é baixa"
+Comparada as ações é muito mais baixa mesmo.
+A liquidez é o quanto as pessoas negociam um ativo, compra e venda. Quanto maior o valor, mais fácil de transformar seu dinheiro em cotas e também de retornar para dinheiro.
+As vezes quando a liquidez é baixa, corremos o risco de ter que pagar um valor acima do valor de mercado por causa da oferta e demanda.
+Conclusão: Gente com pouco dinheiro não vai ser problema com comprar ou vender cotas de FII.
+
+Segundo ponto: Fundos imobiliários tem taxa que ações não tem.
+FII se assemelham a aluguel de imóvel físico.
+Quando alugamos um imóvel, podemos contratar a imobiliária para administrar, porem eles cobram 10% de taxa. Além disto, aluguel não é isento de imposto de renda para o dono do imóvel, para o locador.
+Logo FII também tem taxa, onde é pago para a gestão do fundo pois eles lidam com toda a burocracia destas movimentações de aluguel, pois FII são um conjunto de alugueis que vc investe de uma empresa imobiliária. Essa taxa é chamada de **Taxa de Administração**, o qual é medida por porcentagem ao ano.
+Ações também vão ter algum tipo de taxa, não esta em especifica das FII, porem vão ter porque estamos falando de uma grande empresta de investimentos que cuida de toda a organização necessária com vários funcionários, logo eles precisam tirar esse dinheiro de algum lugar, do quão vem das taxas das ações.
+
+Terceiro ponto: "Eles não tem o mesmo potencial de retorno do que as ações!"
+Barsi utilizou-se das ações para conseguir seu patrimônio de 4 bilhões.
+No Brasil os FII surgiram em julho de 1993, algo recente.
+Exemplo, as empresa de material de construção vão vender para as empresas de FII, imoveis se valorizam ao longo do tempo, fazendo com que alugueis aumentem de valor. Porem uma empresa destas pode aumentar rapidamente seu lucro em pouco tempo, diferente de empresas de FII que focam em alugueis, por isto tempos essa diferença no potencial de retorno entre elas.
+FII são obrigados a distribuir 95% dos seus lucros (Dividendos)
+FII não se valorizem tantas vezes como as ações conseguem.
+O lucro das ações são com base no dinheiro que se permanece em caixa, então em alguns casos a empresa vai aproveitar seu lucro para reinvestir em si mesma, logo não gerando lucros. Por causa disto elas podem ser voláteis, diferente de FIIs que retornam um valor parecido em cada período de tempo pois são valores provenientes de alugueis, o que resulta num retorno imediato.
+
+No vídeo comentam que 10% da carteira é investida em FIIs. A maioria dos investimentos é em ações pois focam no longo prazo.
+Dentro dos 10% eles dividem 50% em seguros, 25% medianos e 25% nos arriscados.
+
+### Caixinha do Nubank
+
+Testaram investir 100, 1000 e 10000 na caixinha do nubank entre 7 de novembro à 7 de dezembro, onde a taxa SELIC estava 12,25% aa e o CDI à 12.15% aa.
+PS: A taxa SELIC é mudada a cada 45 dias onde decidem na reunião do COPOM (orgão do Banco Central).
+Taxa alta vc investe, taxa baixa vc compra.
+Taxa alta é pra controlar inflação.
+
+Investimento na caixinha é pós fixado, muda o ganho conforme o CDI muda ao ano.
+
+Caixinha cai nas alíquotas de Imposto de Renda de fundos de investimento de longo prazo, aquele que tem menos imposto de renda quanto mais tempo deixa.
+
+![[Pasted image 20240112221335.png]]
+
+Além disso é afetado pelo IOF caso tire antes dos 30 dias
+
+![[Pasted image 20240112221624.png]]
+
+100 Reais:
+Rendimento Bruto: R$ 1,01
+Imposto: R$ 0,22
+Líquido: R$ 0,79
+
+1000 Reais:
+Rendimento Bruto: R$ 10,06
+Imposto: R$ 2,26
+Líquido: R$ 7,80
+
+10000 Reais:
+Rendimento Bruto: R$ 100,61
+Imposto: R$ 22,63
+Líquido: R$ 77,98
 
 ## Corretoras
 
