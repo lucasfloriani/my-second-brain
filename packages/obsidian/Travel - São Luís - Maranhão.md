@@ -146,9 +146,9 @@ Cafeteria com cafés gourmets e muitas sobremesas diferentes.
 [Vídeo Promocional - Empório Cheirin Bão - Aririzal](https://www.instagram.com/p/C1sagjPpgyA)
 
 
-- [ ] Read
-- [ ] Create resume
-- [ ] Put tag `read` and `withResume`
+- [x] Read
+- [x] Create resume
+- [x] Put tag `read` and `withResume`
 
 ##### Tags
-#travel #saoLuis #maranhão
+#travel #saoLuis #maranhão #read #withResume 
