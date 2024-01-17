@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "203c94b1ff532c8f",
+        "id": "2f99487b3cd2024f",
         "type": "tabs",
         "children": [
           {
-            "id": "17f1bb8c3e82db08",
+            "id": "ce13bf0caa0517d5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudo sobre Cashback e Milhas.md",
+                "file": "Travel - São Luís - Maranhão.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -48,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "travel",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudo sobre Cashback e Milhas.md",
+                "file": "Travel - São Luís - Maranhão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,32 +115,36 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "17f1bb8c3e82db08",
+  "active": "ce13bf0caa0517d5",
   "lastOpenFiles": [
-    "Pasted image 20240112221624.png",
-    "Pasted image 20240112221335.png",
-    "Pasted image 20231228201034.png",
-    "Pasted image 20231228200038.png",
-    "Pasted image 20231228195927.png",
-    "Pasted image 20231228150956.png",
-    "Pasted image 20231228145533.png",
-    "Pasted image 20231228145515.png",
-    "Pasted image 20231228145445.png",
-    "Pasted image 20231228121304.png",
-    "Pasted image 20231227221954.png",
-    "DAO vs Repository Patterns.md",
+    "Assets/Pasted image 20240117190828.png",
+    "Travel - São Luís - Maranhão.md",
+    "Assets/Pasted image 20240117202032.png",
+    "Assets/Pasted image 20240117201930.png",
+    "Assets/Pasted image 20240117201404.png",
+    "Assets/Pasted image 20240117201206.png",
+    "Assets/Pasted image 20240117201200.png",
+    "Assets/Pasted image 20240117201114.png",
+    "Assets/Pasted image 20240117201104.png",
+    "Assets/Pasted image 20240117195602.png",
+    "Assets/Pasted image 20240117195448.png",
+    "Assets/Pasted image 20240117195434.png",
+    "Travel - Peru.md",
+    "CSS has Selector.md",
+    "Jest.md",
+    "GraphQL.md",
     "Estudo sobre Cashback e Milhas.md",
+    "DAO vs Repository Patterns.md",
     "Remeda.js.md",
     "Relay.md",
     "CSS Container Queries.md",
-    "CSS has Selector.md",
     "CSS dynamic viewport units.md",
     "CSS initial-letter property.md",
     "initial-letter.mp4",
     "CSS text-wrap balance.md",
     "CSS Style Queries.md",
     "CSS nth-of Selector.md",
-    "text-wrap-balance.mp4",
+    "Assets/text-wrap-balance.mp4",
     "TotalTypescript - Turn a module into a type.md",
     "TotalTypescript - Use 'declare global' to allow types to cross module boundaries.md",
     "TotalTypescript - Assign local variables to default generic slots to dry up your code and improve performance.md",
@@ -148,10 +154,6 @@
     "Stronger JavaScript with Opaque Types.md",
     "Record - The built-in Typescript Utility for “that” type (Advanced TypeScript).md",
     "PropertyKey - TypeScript Secrets.md",
-    "Mapped type MODIFIERS in TypeScript - Advanced TypeScript.md",
-    "Introduction to Effect, Michael Arnaldi, WorkerConf 2022 Dornbirn.md",
-    "Intermock.md",
-    "Flavoring - Flexible Nominal Typing for TypeScript.md",
-    "Why you shouldn’t list certifications on LinkedIn.md"
+    "Mapped type MODIFIERS in TypeScript - Advanced TypeScript.md"
   ]
 }
