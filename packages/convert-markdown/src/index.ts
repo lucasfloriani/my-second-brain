@@ -6,17 +6,20 @@ const main = () => {
   const markdownDir = __dirname + "/../../obsidian";
   const fileNames = getFilesInFolder(markdownDir);
 
-  fileNames.forEach((fileName) => {
-    const path = `${markdownDir}/${fileName}`;
-    const content = getParsedFileContent(path);
-    const dashfileName = dashify(fileName.slice(0, -3), { condense: true });
-    const newPath =
-      __dirname + "/../../../apps/blog/data/blog/" + dashfileName + ".md";
-    writeFile(newPath, content, (err) => {
-      if (err) throw err;
-      console.log(`${fileName} was created`);
+  const blacklist = [".obsidian"];
+  fileNames
+    .filter((fileName) => !blacklist.includes(fileName))
+    .forEach((fileName) => {
+      const path = `${markdownDir}/${fileName}`;
+      const content = getParsedFileContent(path);
+      const dashfileName = dashify(fileName.slice(0, -3), { condense: true });
+      const newPath =
+        __dirname + "/../../../apps/blog/data/blog/" + dashfileName + ".md";
+      writeFile(newPath, content, (err) => {
+        if (err) throw err;
+        console.log(`${fileName} was created`);
+      });
     });
-  });
 
   const markdownAssetsDir = __dirname + "/../../obsidian/Assets";
   const assetsNames = getFilesInFolder(markdownAssetsDir);
