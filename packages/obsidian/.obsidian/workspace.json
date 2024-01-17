@@ -20,6 +20,18 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "75d2767063d145e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clean architecture and Domain Driven Design - Input Validation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -115,10 +127,12 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "c4431b67867f61d7",
+  "active": "ce13bf0caa0517d5",
   "lastOpenFiles": [
-    "Assets/Pasted image 20240117190828.png",
+    "Clean architecture and Domain Driven Design - Input Validation.md",
     "Travel - São Luís - Maranhão.md",
+    "Travel - Peru.md",
+    "Assets/Pasted image 20240117190828.png",
     "Assets/Pasted image 20240117202032.png",
     "Assets/Pasted image 20240117201930.png",
     "Assets/Pasted image 20240117201404.png",
@@ -128,8 +142,6 @@
     "Assets/Pasted image 20240117201104.png",
     "Assets/Pasted image 20240117195602.png",
     "Assets/Pasted image 20240117195448.png",
-    "Assets/Pasted image 20240117195434.png",
-    "Travel - Peru.md",
     "CSS has Selector.md",
     "Jest.md",
     "GraphQL.md",

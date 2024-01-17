@@ -1,3 +1,4 @@
+
 ## Moradia
 
 ### Reviver Hostel
@@ -151,4 +152,4 @@ Cafeteria com cafés gourmets e muitas sobremesas diferentes.
 - [x] Put tag `read` and `withResume`
 
 ##### Tags
-#travel #saoLuis #maranhão #read #withResume 
+#travel, #saoLuis, #maranhão, #read, #withResume

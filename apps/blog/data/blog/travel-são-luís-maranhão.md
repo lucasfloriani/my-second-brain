@@ -1,13 +1,13 @@
 ---
-title: # Moradia
+title: Travel - São Luís - Maranhão
 date: '2024-01-17'
-tags: ['travel #saoLuis #maranhão #read #withResume']
+tags: ['travel', 'saoLuis', 'maranhão', 'read', 'withResume']
 draft: false
 summary: Tem café da manhã caprichado.. Comentaram que ficando perto dos pontos turísticos, é difícil ter problema com segurança.. A forma mais prática de chegar é com apps de corrida (aka Uber), sendo 14km do...
 description: Tem café da manhã caprichado.. Comentaram que ficando perto dos pontos turísticos, é difícil ter problema com segurança.. A forma mais prática de chegar é com apps de corrida (aka Uber), sendo 14km do...
 ---
 
-# # Moradia
+# Travel - São Luís - Maranhão
 
 ## Moradia
 
