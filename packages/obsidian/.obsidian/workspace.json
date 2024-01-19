@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2f99487b3cd2024f",
+        "id": "8f1eaf805653b838",
         "type": "tabs",
         "children": [
           {
-            "id": "ce13bf0caa0517d5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travel - São Luís - Maranhão.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "75d2767063d145e5",
+            "id": "606917ea17046997",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clean architecture and Domain Driven Design - Input Validation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travel - São Luís - Maranhão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,21 +108,22 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "ce13bf0caa0517d5",
+  "active": "606917ea17046997",
   "lastOpenFiles": [
-    "Clean architecture and Domain Driven Design - Input Validation.md",
+    "Assets/Pasted image 20240119172117.png",
     "Travel - São Luís - Maranhão.md",
+    "Assets/Pasted image 20240119174114.png",
+    "Assets/Pasted image 20240119174040.png",
+    "Assets/Pasted image 20240119174035.png",
+    "Assets/Pasted image 20240119174004.png",
+    "Assets/Pasted image 20240119173944.png",
+    "Assets/Pasted image 20240119173744.png",
+    "Assets/Pasted image 20240119173642.png",
+    "Assets/Pasted image 20240119173637.png",
+    "Assets/Pasted image 20240119173632.png",
+    "Assets/Pasted image 20240119173626.png",
+    "Clean architecture and Domain Driven Design - Input Validation.md",
     "Travel - Peru.md",
-    "Assets/Pasted image 20240117190828.png",
-    "Assets/Pasted image 20240117202032.png",
-    "Assets/Pasted image 20240117201930.png",
-    "Assets/Pasted image 20240117201404.png",
-    "Assets/Pasted image 20240117201206.png",
-    "Assets/Pasted image 20240117201200.png",
-    "Assets/Pasted image 20240117201114.png",
-    "Assets/Pasted image 20240117201104.png",
-    "Assets/Pasted image 20240117195602.png",
-    "Assets/Pasted image 20240117195448.png",
     "CSS has Selector.md",
     "Jest.md",
     "GraphQL.md",
@@ -165,7 +147,6 @@
     "Tanu.md",
     "Stronger JavaScript with Opaque Types.md",
     "Record - The built-in Typescript Utility for “that” type (Advanced TypeScript).md",
-    "PropertyKey - TypeScript Secrets.md",
-    "Mapped type MODIFIERS in TypeScript - Advanced TypeScript.md"
+    "PropertyKey - TypeScript Secrets.md"
   ]
 }
